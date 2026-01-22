@@ -1,0 +1,2 @@
+timestamp,patient_id,patient_name,age,cycle_length,period_duration,sleep_hours,flow_level,stress_level,predicted_delay,risk_level,interpretation,notes
+2026-01-22 00:33:49,P-0001,Patient,22,28.0,5.0,7.0,light,low,3.13,Moderate,Slight delay likely,Breast Tenderness
