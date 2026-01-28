@@ -1,501 +1,1001 @@
-cycle_length,period_duration,flow_level,stress_level,sleep_hours,delay_days
-36,6,light,low,5.9657246277321265,0
-32,5,light,medium,5.346345899552109,5
-39,3,light,high,7.185169480019944,0
-42,4,heavy,medium,7.554902712640309,9
-37,5,heavy,low,5.335787932689687,8
-33,2,medium,low,6.411491572351496,4
-27,6,light,low,4.530324359659448,3
-33,6,heavy,low,8.958271395791321,0
-41,4,medium,low,6.974372926861822,6
-32,6,heavy,low,8.509357719080896,6
-41,6,light,high,4.217939873590691,9
-43,3,light,low,7.147551840396286,4
-37,5,heavy,high,5.629045308785993,6
-30,3,medium,medium,6.4030199828017516,6
-36,6,medium,medium,4.949945396047699,4
-37,5,medium,medium,5.875249122014846,7
-43,2,heavy,low,6.5452735161969,8
-40,5,light,medium,5.497663003764382,3
-40,6,light,high,7.5950055373717245,9
-39,6,heavy,low,7.236768083049002,0
-28,3,light,low,6.819817873088552,1
-36,2,light,low,8.434807524248727,1
-26,5,light,medium,7.580021241314905,8
-32,4,heavy,low,8.665959607832548,4
-40,3,light,medium,7.6480230205446755,3
-37,5,light,medium,7.184644336862492,2
-31,4,light,medium,5.1332523763712095,8
-39,3,heavy,low,4.515182856591218,6
-35,2,light,high,8.356271764548612,4
-42,6,light,high,8.909122919943462,5
-42,3,light,low,7.004798794611617,1
-25,6,medium,medium,8.836817634051547,5
-39,6,light,medium,7.79578909496827,4
-38,4,medium,medium,7.97959391572196,5
-35,6,light,medium,8.67218505446591,1
-36,6,medium,medium,6.805266480648614,6
-40,2,medium,medium,8.454839377111746,2
-26,6,light,high,5.6753151987438475,2
-34,6,medium,medium,8.305571001240097,0
-34,3,light,low,7.279074779123046,4
-44,2,light,medium,6.264812605114171,0
-34,5,light,medium,4.948827919308422,6
-36,6,medium,high,4.406600747881344,0
-39,6,heavy,medium,5.323040354506374,1
-31,3,light,low,8.325893101697094,1
-33,5,heavy,high,4.303133890156954,2
-26,5,light,high,5.789923342753691,4
-27,5,light,high,7.889863603512326,6
-36,4,heavy,high,5.598174973446541,8
-39,5,heavy,medium,4.614805255193725,4
-34,4,medium,low,7.1328981777241065,3
-35,5,medium,medium,4.820811563283608,1
-42,4,medium,medium,4.04519642658856,5
-44,4,medium,low,6.138834456345293,0
-28,4,light,high,7.907972373941028,0
-43,2,medium,low,8.970256076387228,6
-29,3,heavy,high,8.210030072429683,7
-36,6,light,high,7.777407964791027,1
-44,6,light,low,4.088191011077976,3
-43,6,heavy,low,8.596465063785988,0
-43,6,heavy,medium,7.655827360231461,3
-42,5,heavy,medium,4.838730297306349,7
-33,6,medium,low,7.989382871502185,7
-43,2,light,high,8.421285199331809,6
-27,3,light,medium,5.493894345636791,9
-37,6,light,low,5.928296371307594,4
-33,6,light,high,5.496521977471905,1
-41,5,light,high,7.10208369991019,8
-26,2,medium,medium,4.05314699078065,0
-34,2,light,medium,4.259236688004206,0
-32,5,light,medium,8.545220760663918,0
-28,6,medium,medium,4.585078315161576,6
-39,6,heavy,low,8.429613079550407,1
-37,3,medium,high,8.991501216163568,4
-27,4,light,medium,7.728700451347695,6
-38,5,light,low,7.450121002956342,9
-32,4,heavy,medium,6.994279082308026,9
-30,4,light,low,4.664613586015529,0
-33,3,light,low,6.126635027672364,9
-44,3,heavy,medium,6.801199941597075,1
-42,4,medium,medium,7.882282329706868,6
-37,2,light,medium,4.5925142063536155,1
-40,5,light,medium,5.988713280880544,9
-39,2,light,medium,7.426230426355346,9
-40,3,light,medium,8.052698373960999,7
-32,6,medium,low,7.871117675652727,0
-39,6,medium,low,4.485314632636294,6
-33,3,light,high,7.270654175270994,4
-25,2,heavy,high,7.315766464168684,9
-25,6,heavy,medium,7.05305889196044,8
-28,3,medium,medium,4.055218955674496,9
-36,4,heavy,low,4.8529964405898465,0
-36,5,light,low,4.993982045241854,2
-33,5,medium,medium,5.572358834624273,8
-30,5,light,medium,6.448699818898395,7
-35,2,medium,medium,6.5450743493896795,1
-41,3,heavy,medium,7.782357808621406,1
-29,3,heavy,low,5.731630159041023,8
-29,2,heavy,medium,4.113074708128363,0
-25,4,light,medium,7.520183935931833,4
-44,5,light,medium,4.968061195885631,7
-40,2,medium,medium,6.538915524723019,4
-38,5,medium,medium,7.8891276131059955,7
-25,4,medium,low,7.939498203048893,1
-26,2,light,medium,5.717442123336078,0
-37,6,medium,medium,6.516979016670332,5
-43,3,heavy,medium,4.805436526941278,8
-33,2,heavy,high,8.61675909380287,9
-43,3,heavy,high,4.227941267216264,5
-30,6,light,high,4.339083472331097,5
-31,6,medium,high,7.4244196830927685,8
-42,6,heavy,medium,4.357454355059115,1
-44,6,heavy,high,8.25078923227722,3
-32,6,medium,high,8.816551651376953,9
-28,6,medium,low,7.151603382635431,1
-37,3,medium,high,5.9374807732775565,8
-40,4,medium,low,4.40878311444077,2
-43,2,medium,medium,7.6059136988385205,0
-35,2,medium,high,7.361623238763733,6
-30,5,heavy,medium,5.022850965372452,6
-38,4,light,low,7.404838788452993,0
-44,3,medium,medium,7.066555543688688,1
-31,2,medium,medium,4.601704617389177,2
-36,6,light,medium,6.4108738106855325,8
-28,2,light,low,7.186853695791403,6
-28,3,light,medium,5.212655780821246,6
-36,6,medium,high,8.981346238005468,1
-38,4,light,low,5.707310106094599,7
-34,5,light,high,6.362313435486417,9
-31,6,medium,low,6.437713793446665,1
-35,2,heavy,high,5.881821152457464,0
-41,2,light,medium,6.892092512038844,1
-43,3,heavy,high,4.241257116297975,0
-27,4,light,low,4.086361118768304,2
-43,3,medium,high,5.631460334458941,5
-26,2,light,high,4.978647421232294,4
-41,2,heavy,high,5.447417476638128,1
-33,5,heavy,low,5.318793735126718,3
-25,5,medium,high,6.890927645619945,7
-43,6,medium,high,5.221842579581109,0
-44,3,medium,medium,7.248548098961415,3
-32,5,light,low,7.920526450192044,7
-37,2,heavy,high,6.461575921861229,6
-26,5,medium,low,4.174880516080961,4
-28,2,light,high,7.082970022893951,7
-42,2,heavy,high,8.896001775567367,4
-29,4,light,low,8.656403772602786,5
-30,2,medium,low,6.617128960024161,7
-37,4,light,medium,7.110866501458014,0
-34,5,heavy,medium,7.121146674218576,5
-32,6,heavy,low,4.544005274797926,3
-36,6,light,medium,7.222700642002578,6
-29,6,light,low,5.362611832788836,5
-41,6,light,low,4.508168768585619,4
-34,6,light,high,8.80713442614622,2
-31,6,medium,high,4.987837540333206,7
-42,5,medium,medium,7.283572724628387,8
-42,3,heavy,high,8.213932777383121,0
-39,6,light,low,5.435333616666634,2
-30,5,medium,medium,4.076336026088345,1
-33,4,light,high,6.887807341129379,2
-39,3,heavy,medium,6.345246972908528,5
-39,3,heavy,medium,7.770960196504316,2
-38,2,light,low,6.389569062469853,4
-41,2,medium,high,4.42685956012453,3
-30,3,medium,high,7.524609484326478,0
-33,6,heavy,high,5.371120687779639,7
-26,6,light,low,8.197812169552975,2
-41,3,medium,medium,5.474697921155919,0
-40,2,light,high,4.51605500265037,9
-32,3,light,low,7.0499257790525895,2
-43,2,heavy,high,8.0696340589996,4
-27,4,medium,high,7.459756349117827,2
-30,5,medium,medium,8.34349087461117,2
-29,6,medium,low,6.316297243849311,0
-34,4,heavy,low,7.253226755518739,0
-34,3,medium,low,6.5626291853362,3
-33,5,heavy,low,6.921781622772031,3
-37,2,medium,medium,6.105885124835336,9
-27,5,heavy,low,8.673459073138378,6
-42,3,heavy,high,4.115477840221242,8
-29,6,light,high,7.330272631379858,2
-39,2,heavy,low,7.714876605734767,0
-34,6,medium,high,5.3841642412761495,1
-37,3,light,medium,6.324570044339024,4
-26,4,heavy,low,6.989289984821546,1
-41,3,heavy,medium,5.625013042241292,2
-29,6,light,high,4.0891707522023575,6
-26,6,heavy,low,6.761877367332321,5
-32,4,light,low,5.6970189801672495,0
-26,6,medium,medium,8.511142381703372,3
-27,5,light,low,5.909950250502107,8
-32,4,medium,medium,6.528180180530506,2
-29,5,light,high,7.339926276979382,3
-31,3,heavy,high,8.862748217950234,5
-37,3,medium,high,7.9276988599619305,2
-34,5,medium,low,4.722204689915001,5
-39,3,heavy,high,5.405797693163519,2
-29,6,medium,high,7.205031267450842,3
-40,2,medium,high,8.005015141468043,3
-27,3,heavy,high,7.651124889115637,1
-26,3,medium,high,8.131128857021324,0
-25,3,heavy,medium,5.426979830155473,5
-29,4,light,high,5.145437013537511,1
-25,2,light,low,5.612871045995957,8
-35,4,medium,high,8.906719691091077,9
-35,2,heavy,low,8.447935827880187,0
-36,5,medium,low,4.410210572485718,3
-38,6,heavy,high,7.594235031624767,1
-26,2,medium,medium,5.355832264394035,3
-42,6,medium,high,8.783760712533756,1
-26,4,medium,high,5.632544115106214,9
-40,2,medium,high,6.859260970251708,8
-36,6,heavy,low,4.574364763100347,1
-28,5,light,medium,6.398988301396482,8
-36,6,heavy,high,7.508474769960153,4
-42,6,heavy,low,7.983237646115287,4
-42,2,medium,low,8.16507968877116,1
-39,5,light,medium,6.007385584189803,7
-36,3,medium,medium,6.746391929088465,0
-43,2,light,high,5.614541310693497,6
-32,5,heavy,high,5.88606077606859,0
-39,3,medium,high,7.713790312589293,3
-28,2,heavy,high,8.99053917407481,4
-26,6,light,medium,6.368784423794102,0
-32,5,medium,high,8.764780647867317,9
-44,6,heavy,high,7.786273896459647,5
-31,5,heavy,low,6.276634604444482,7
-25,5,heavy,medium,8.458226483538496,7
-34,4,heavy,low,7.520234362181702,2
-28,3,light,high,6.701381630969582,5
-43,2,light,low,4.9311004099767075,2
-39,4,light,medium,5.846937073612226,5
-33,4,medium,low,5.698565933761591,5
-27,2,medium,medium,4.038047411093363,0
-42,3,heavy,low,5.4518791564495395,3
-39,5,light,high,5.72930639035016,5
-41,5,heavy,high,7.116690269843483,9
-38,6,medium,high,5.210098779486955,2
-28,3,heavy,low,8.186727230396981,1
-42,4,light,high,4.36094369752257,1
-42,3,medium,medium,8.66403950277785,3
-25,4,light,low,4.054067951312142,2
-30,5,medium,medium,6.801466772308325,8
-35,6,medium,medium,8.320248427212837,2
-31,3,medium,high,8.25403196301211,9
-37,3,heavy,low,7.877877474485422,7
-36,4,light,medium,6.3783889117007995,9
-37,4,light,low,4.563420236566984,9
-38,6,heavy,high,8.319677755034927,3
-31,5,light,high,8.44144498995077,8
-44,4,medium,low,6.182392749485268,8
-43,4,medium,medium,7.452923966599091,9
-38,5,light,high,6.297055265943286,7
-34,4,medium,medium,5.816912975420932,7
-37,5,light,low,5.234583074952039,5
-37,2,medium,medium,7.550334968352361,0
-33,2,medium,low,4.692920888519463,7
-31,2,light,low,4.857919342902276,6
-30,4,light,medium,5.819706109038441,9
-35,4,light,low,5.879418296593443,5
-37,6,light,low,4.625774869301744,4
-44,4,light,high,8.929324935770708,4
-40,5,medium,high,4.198744401644635,6
-42,2,heavy,medium,8.261898981321234,6
-44,3,medium,low,6.847642593546008,9
-39,5,light,medium,4.781546521975916,2
-35,3,light,medium,8.528612801779147,0
-33,4,light,high,7.785159394206077,8
-38,5,medium,high,7.9974815009061695,4
-44,5,heavy,low,4.965209043892098,5
-36,3,medium,low,5.496436715748638,6
-28,4,light,low,8.560670214105762,3
-28,2,light,low,8.233770592522866,5
-43,4,heavy,high,5.451927369244045,2
-25,4,medium,low,4.620435608645492,8
-38,6,medium,high,8.491198712723623,2
-44,3,heavy,low,5.711988963941806,9
-44,6,medium,medium,6.830624885644345,0
-25,4,heavy,low,7.545777439607948,7
-36,6,light,medium,7.51404594183563,9
-44,5,light,low,6.613068150283691,5
-30,3,medium,low,4.913363457639874,5
-28,2,heavy,low,6.915000351789693,9
-27,6,light,low,7.955485355953177,7
-31,4,light,high,4.73970162605757,4
-34,3,heavy,low,5.142108185778898,0
-27,3,heavy,high,5.319222566961407,8
-40,4,medium,high,4.567456699287173,2
-39,3,heavy,low,6.561051821723397,6
-35,4,medium,medium,8.184536475512903,7
-44,2,light,high,7.272219752301875,5
-42,3,light,high,4.124471401411338,6
-42,2,heavy,low,8.005821536270748,8
-32,5,heavy,medium,6.708401987259877,1
-31,6,medium,medium,5.853170229130632,5
-39,6,medium,medium,4.687748437119258,2
-33,3,light,medium,5.266980293419492,4
-37,4,heavy,medium,7.710418974215452,2
-35,6,light,medium,6.954247186871434,5
-37,6,light,high,6.555261952994645,6
-41,3,heavy,high,7.336029394564131,6
-38,2,light,medium,6.103458573543373,7
-40,5,light,high,6.838372974759909,9
-34,6,light,medium,4.7683505432606825,6
-43,6,medium,low,8.097031813167186,0
-36,6,medium,low,5.7419229418339235,4
-43,4,light,high,6.799842126646215,8
-32,4,heavy,high,7.919047818319192,1
-25,5,light,medium,5.502203253107801,1
-28,2,light,high,8.717364822602253,1
-42,5,medium,low,4.828855385639372,1
-36,2,medium,high,6.244493324954402,7
-33,6,medium,medium,6.357015985788308,5
-43,2,light,medium,6.0556157967079685,1
-32,6,heavy,high,4.195862200761346,1
-36,3,heavy,high,8.799621143995696,3
-31,3,medium,low,5.792548845826209,8
-31,4,heavy,medium,8.304211286478072,5
-35,4,medium,low,8.859733634096763,9
-40,3,medium,high,4.496894428749165,1
-43,4,medium,low,4.055422735996482,8
-34,3,heavy,high,8.25614867349379,7
-29,5,heavy,low,4.49457036903969,0
-32,6,light,low,5.902970493905398,4
-44,6,light,low,5.066143669532441,4
-27,2,light,high,4.30602875111604,4
-41,2,heavy,medium,6.376941423380947,8
-37,6,medium,medium,5.689908612588971,7
-43,2,light,medium,4.89530246762881,7
-43,3,heavy,high,5.422591101144784,6
-35,5,light,low,8.630363099966084,7
-26,4,medium,low,7.912309960312847,1
-37,3,light,low,6.877936015810812,5
-40,3,medium,high,8.991995236812619,3
-40,6,light,low,5.9887493265058716,8
-29,4,medium,low,8.729591748916548,3
-42,5,heavy,high,6.221287522099493,1
-40,5,light,high,7.7305087560723065,9
-32,3,light,low,7.445532123778635,0
-35,6,medium,low,6.690025987969138,5
-34,3,medium,medium,4.295195974113497,2
-27,2,heavy,low,7.734585416239384,2
-39,2,medium,low,4.133735890327504,6
-34,6,medium,high,7.7500324868473305,0
-33,6,heavy,high,4.428500781278752,3
-40,6,light,low,4.97651477438354,8
-35,2,light,low,7.412420518162653,0
-33,6,light,high,4.6617515736662,3
-27,5,medium,high,7.5351834708684216,3
-42,6,light,medium,8.326273941232785,5
-26,2,medium,medium,7.0455656385195145,8
-26,5,heavy,high,4.786434209626026,6
-38,3,medium,high,7.502350327902221,0
-43,6,heavy,medium,8.979519550924014,2
-33,3,heavy,medium,7.029103787529318,5
-25,2,light,high,7.232350259123373,4
-28,2,medium,low,5.966488890460028,6
-28,4,light,high,8.940932503181656,0
-41,6,light,low,7.121676691307311,4
-44,3,light,medium,5.794900894072709,5
-38,2,heavy,medium,4.343594510686916,1
-31,2,light,low,5.389963979169396,8
-37,5,medium,medium,6.653194377872497,1
-29,5,medium,medium,4.488197019593025,6
-35,4,heavy,medium,5.346246956367629,4
-31,3,light,medium,6.503264935064109,5
-25,4,medium,low,6.485085095232331,6
-39,5,medium,low,7.418765775157402,0
-39,6,light,medium,7.360133601172376,9
-42,2,light,medium,6.7638361069822,3
-40,3,heavy,high,5.753754934688532,7
-34,2,medium,high,6.1603894636469265,3
-37,2,light,medium,8.252341315083683,6
-25,3,heavy,low,5.0878051441955865,5
-27,5,heavy,high,6.738952327465567,8
-39,6,light,high,6.657640584190801,6
-30,5,heavy,low,7.108050250478216,7
-42,4,medium,medium,5.644595034029189,8
-41,6,heavy,medium,6.519997667860039,8
-40,4,light,low,8.564136100515489,9
-27,6,light,medium,8.346848782055524,2
-29,3,light,low,8.407959419578107,5
-43,4,medium,medium,8.231395693979264,8
-40,3,heavy,medium,7.697208244151449,6
-32,4,medium,medium,6.240107482292914,7
-30,3,light,high,5.597580618806215,3
-26,3,medium,medium,4.437372317296434,7
-38,2,heavy,medium,8.82419480444603,3
-39,4,light,high,8.288461392367125,3
-35,6,medium,high,7.450304475643168,2
-30,2,heavy,high,6.426507806517506,6
-39,6,heavy,high,5.569863508119124,5
-33,5,heavy,medium,6.5912086172048925,8
-30,3,medium,medium,6.374885615781859,1
-40,2,medium,medium,4.947191927722642,6
-30,2,heavy,medium,4.245567369517317,7
-38,6,light,low,5.184220599177195,7
-43,2,light,medium,4.2223978326023595,6
-34,4,light,high,4.174700230575167,4
-39,6,heavy,low,5.776876310255943,7
-41,5,heavy,low,7.061618784001823,3
-41,2,light,low,5.291816913083796,7
-42,4,heavy,medium,6.038445320313974,4
-30,2,medium,low,8.009587201936098,9
-38,6,medium,low,7.3303135960942045,2
-43,5,light,medium,6.293234164631859,0
-41,3,medium,high,5.101530494424594,9
-32,4,heavy,medium,5.045855337968484,1
-31,3,heavy,medium,8.399760527831928,8
-37,3,light,low,4.505508940028294,3
-28,5,heavy,low,5.866725184343457,7
-37,5,light,low,6.023835875488574,6
-37,6,medium,low,4.481017950762044,5
-28,6,medium,high,6.622559763254254,6
-34,4,light,low,7.981662898087952,1
-34,5,light,medium,7.768005108338814,2
-30,4,medium,high,6.470109251952237,5
-38,4,heavy,low,8.130095348514597,1
-32,2,heavy,medium,5.263268637925988,4
-38,4,light,low,6.770022374119482,9
-35,5,light,high,7.784268658085326,5
-36,5,medium,high,6.641445818630683,8
-32,5,heavy,medium,5.522473711163449,2
-29,2,medium,high,7.224569819207569,4
-42,4,heavy,high,7.698561983900206,8
-39,4,heavy,medium,8.724343506945072,5
-40,2,heavy,high,8.899925495914642,2
-38,3,light,low,8.895315586392936,0
-26,6,medium,high,8.33135928351085,3
-34,2,medium,medium,8.975225802633354,3
-39,3,medium,low,4.035454226354564,2
-31,5,medium,medium,5.502289015011089,4
-29,4,heavy,medium,4.956708395459799,6
-25,3,heavy,high,6.8157904322725305,7
-39,4,light,low,6.197495811102703,9
-34,3,medium,high,5.182537219707591,5
-27,6,light,high,8.528795996734498,1
-32,3,heavy,medium,8.349393110062238,4
-43,5,light,high,7.801616891346728,5
-28,5,medium,high,6.636473642258277,3
-31,5,heavy,high,5.728035021966292,4
-35,5,heavy,high,7.399867490552431,7
-25,2,light,medium,6.603022609806484,8
-40,5,light,medium,6.262023929058014,0
-39,6,medium,high,7.883840016728437,5
-29,4,light,medium,8.421789433304582,1
-28,6,medium,low,5.826196262859159,0
-39,5,heavy,medium,8.375855465964541,8
-44,2,heavy,low,5.549771260539332,1
-41,6,medium,medium,5.887910685863093,0
-25,5,heavy,high,4.809816754653351,9
-36,5,heavy,medium,5.089936900793154,1
-40,4,light,medium,5.547162731405325,8
-40,4,medium,high,5.7607791404698645,0
-31,4,heavy,medium,4.891349328557635,3
-42,2,heavy,medium,8.814910899292414,5
-35,2,light,high,6.071290508151229,9
-26,5,light,low,6.936346366867477,0
-30,2,light,low,4.506087758725389,8
-25,6,light,high,4.361750734509524,0
-28,4,heavy,high,8.112271484052219,3
-30,6,light,low,5.877810410016048,8
-40,5,light,low,5.147639213790058,9
-31,3,heavy,high,7.379481196964228,3
-27,3,light,high,8.331875341560721,3
-34,2,heavy,medium,6.289741935586065,6
-26,5,light,high,4.3429706768809595,1
-39,2,light,high,8.622972803427421,3
-41,3,heavy,low,5.521736323495277,7
-27,3,heavy,high,7.988933313422197,9
-35,6,light,medium,6.281373171250114,1
-26,5,light,medium,5.275399745786195,1
-38,4,medium,high,4.5957078243571265,0
-31,2,light,high,5.504368586997503,6
-37,2,heavy,medium,4.827781090882864,9
-28,4,light,high,8.881559988964142,9
-31,4,heavy,high,8.213630193125951,7
-37,3,heavy,low,5.022394484462517,1
-27,6,medium,low,6.32553446998121,4
-37,5,heavy,low,7.0684597761018635,3
-39,5,medium,low,8.200455359687151,5
-44,4,light,low,6.750701043434144,7
-40,2,light,low,8.657739284342817,8
-34,3,light,medium,8.706547725602835,8
-28,5,light,medium,4.880312422970872,8
-33,5,medium,low,5.057803322224673,0
-33,5,light,low,7.830645460090288,1
-31,6,light,low,7.8328323530920745,6
-28,6,heavy,high,6.2538886368980755,9
-44,6,medium,low,6.4925911835978045,9
-43,6,medium,high,5.537884828720084,9
-29,3,heavy,low,6.5216031110763915,8
-38,5,heavy,medium,4.899329318623996,9
-29,6,heavy,low,8.369882044224923,4
-31,3,heavy,low,5.6495204424922845,3
-27,5,medium,high,6.951241583405791,7
-41,5,medium,low,8.53041444468763,2
-39,6,light,high,8.426224113453344,6
-44,4,heavy,low,6.977302071560976,3
+user_id,age,cycle_length,period_duration,flow_level,stress_level,sleep_hours,exercise_frequency,water_intake,diet_quality,weight,height,bmi,contraceptive_use,has_pcos,has_endometriosis,has_thyroid,mood_state,cramp_severity,hormonal_imbalance,delay_days
+1,43,32,4,medium,medium,6.3,moderate,2,fair,45.8,152.4,19.73,implant,0,0,0,neutral,9,0,4
+2,29,31,6,heavy,medium,5.1,moderate,3,good,59.0,152.7,25.32,oral contraceptive,0,1,0,neutral,4,0,3
+3,22,34,3,heavy,medium,7.7,moderate,6,good,73.7,167.7,26.2,IUD,0,0,0,good,6,0,6
+4,35,35,3,medium,low,8.6,active,9,good,45.4,168.0,16.1,IUD,0,0,0,anxious,2,0,7
+5,33,26,7,heavy,high,6.1,sedentary,2,fair,46.5,162.6,17.59,implant,0,0,0,good,5,0,0
+6,37,73,3,medium,low,5.7,light,5,poor,83.3,163.0,31.38,none,0,0,0,excellent,7,1,45
+7,25,26,7,medium,medium,8.8,sedentary,5,fair,75.8,151.6,32.97,none,1,0,0,excellent,7,0,0
+8,25,27,5,light,low,6.2,active,6,poor,56.9,165.5,20.79,IUD,0,0,0,anxious,1,0,0
+9,38,24,4,heavy,medium,6.4,light,8,excellent,76.0,165.1,27.85,oral contraceptive,0,0,0,depressed,5,0,0
+10,38,31,5,medium,medium,5.8,moderate,9,good,80.7,154.5,33.8,oral contraceptive,0,0,0,good,6,0,3
+11,17,24,7,medium,medium,8.5,moderate,7,fair,58.8,153.1,25.08,none,0,0,0,excellent,6,0,0
+12,36,28,6,medium,low,6.8,sedentary,2,good,46.6,153.7,19.73,none,1,0,0,good,2,0,0
+13,16,139,6,heavy,low,7.8,sedentary,8,good,87.0,153.0,37.14,none,0,1,0,neutral,8,1,111
+14,38,30,5,medium,medium,8.1,light,4,fair,60.5,168.3,21.37,none,0,0,0,neutral,1,0,2
+15,44,30,6,heavy,high,5.7,light,7,good,49.8,155.9,20.49,oral contraceptive,0,0,0,depressed,10,0,2
+16,16,24,7,heavy,high,6.2,sedentary,9,excellent,67.1,157.5,27.05,none,0,0,0,anxious,2,0,0
+17,35,27,4,medium,low,8.2,sedentary,8,good,79.6,155.2,33.04,none,0,0,0,anxious,10,0,0
+18,47,121,3,medium,medium,5.8,active,11,poor,55.0,178.7,17.21,none,0,0,0,neutral,1,1,93
+19,26,27,7,medium,low,8.0,active,7,good,57.1,175.6,18.52,none,0,0,0,good,10,0,0
+20,36,28,7,heavy,low,8.7,light,10,good,55.9,156.9,22.71,none,0,0,0,neutral,8,0,0
+21,39,24,3,heavy,medium,7.1,light,10,poor,89.6,159.8,35.09,IUD,0,0,0,good,3,0,0
+22,41,44,3,light,medium,7.7,sedentary,2,fair,53.9,156.3,22.06,oral contraceptive,1,0,0,good,1,1,16
+23,42,24,4,heavy,low,8.0,moderate,2,excellent,70.9,164.8,26.12,none,1,0,0,good,2,0,0
+24,30,41,4,medium,low,8.2,moderate,2,poor,86.6,150.6,38.21,none,0,1,0,neutral,3,1,13
+25,29,25,4,medium,low,6.0,sedentary,9,good,51.6,170.1,17.83,oral contraceptive,0,0,0,neutral,9,0,0
+26,17,32,6,heavy,high,4.3,sedentary,11,good,88.7,165.7,32.3,none,0,0,0,neutral,5,0,4
+27,21,27,7,light,high,6.0,moderate,8,fair,87.6,177.0,27.99,none,0,0,0,excellent,4,0,0
+28,35,30,3,heavy,low,7.4,moderate,4,poor,84.8,154.9,35.33,IUD,1,0,0,neutral,2,0,2
+29,23,29,7,medium,low,6.3,sedentary,3,good,54.7,174.1,18.03,IUD,0,1,1,good,9,0,1
+30,32,34,7,heavy,high,7.7,moderate,5,fair,73.5,173.8,24.35,IUD,0,0,1,neutral,7,0,6
+31,18,43,4,light,high,5.8,light,4,good,79.2,153.8,33.49,oral contraceptive,0,0,0,good,7,1,15
+32,39,30,4,medium,medium,7.2,light,8,good,89.4,162.0,34.07,none,0,0,0,anxious,6,0,2
+33,28,32,7,heavy,low,4.9,moderate,11,good,53.1,155.1,22.08,oral contraceptive,0,0,0,neutral,2,0,4
+34,23,26,4,light,low,7.7,moderate,9,excellent,79.5,157.6,31.98,none,0,0,0,neutral,0,0,0
+35,40,24,6,light,medium,6.7,light,7,good,60.2,157.9,24.16,none,0,0,0,neutral,4,0,0
+36,16,25,3,heavy,medium,5.0,active,4,fair,52.9,166.7,19.04,none,0,0,0,neutral,0,0,0
+37,34,35,7,medium,low,5.5,light,7,excellent,64.0,162.3,24.27,none,0,0,0,excellent,5,0,7
+38,42,34,3,heavy,medium,7.7,moderate,3,good,80.7,178.4,25.35,none,0,1,0,neutral,10,0,6
+39,21,35,6,light,low,6.4,light,8,fair,65.9,153.8,27.87,none,0,0,0,good,6,0,7
+40,22,24,4,medium,high,5.1,active,11,poor,69.2,179.2,21.54,none,0,0,0,good,4,0,0
+41,49,34,5,heavy,medium,8.8,active,8,good,89.8,156.9,36.46,oral contraceptive,0,0,0,good,3,0,6
+42,28,28,6,medium,low,7.6,sedentary,5,fair,63.0,173.2,20.99,implant,0,0,0,anxious,1,0,0
+43,31,33,5,medium,medium,8.8,active,9,good,72.7,160.2,28.34,none,0,1,0,good,4,0,5
+44,18,25,3,medium,medium,6.1,moderate,5,good,61.4,154.3,25.81,oral contraceptive,0,0,0,good,8,0,0
+45,16,26,7,heavy,high,6.4,moderate,8,fair,62.7,175.7,20.29,none,0,0,0,depressed,3,0,0
+46,20,31,4,light,medium,8.5,sedentary,5,good,76.3,159.3,30.08,none,1,0,0,anxious,1,0,3
+47,18,33,6,medium,low,6.6,moderate,6,poor,87.2,169.8,30.26,implant,0,0,0,excellent,5,0,5
+48,43,28,4,light,medium,7.5,active,8,fair,69.4,167.0,24.89,none,0,0,0,anxious,7,0,0
+49,32,142,5,medium,low,5.3,light,11,good,79.6,164.2,29.53,IUD,0,0,0,good,1,1,114
+50,40,58,5,medium,high,6.2,active,4,fair,49.0,164.9,18.03,none,0,0,1,neutral,8,1,30
+51,48,44,7,medium,medium,4.6,sedentary,11,good,54.5,172.0,18.43,IUD,0,0,0,neutral,6,1,16
+52,24,24,5,medium,medium,5.0,sedentary,6,good,67.6,152.6,29.01,none,0,0,0,neutral,1,0,0
+53,28,27,7,light,low,4.0,light,4,good,45.9,170.0,15.87,none,0,0,0,neutral,10,0,0
+54,45,35,6,light,medium,4.2,moderate,6,poor,56.4,176.9,18.02,none,0,1,0,good,4,0,7
+55,29,35,7,medium,high,8.9,moderate,4,fair,68.3,151.7,29.66,none,0,0,0,good,4,0,7
+56,22,32,5,medium,high,5.2,sedentary,11,good,45.7,154.2,19.2,IUD,0,0,0,neutral,6,0,4
+57,28,28,3,heavy,low,7.3,active,8,excellent,56.9,171.5,19.35,oral contraceptive,0,0,0,good,4,0,0
+58,37,31,7,medium,low,8.2,sedentary,2,good,68.1,163.1,25.61,none,0,0,0,depressed,10,0,3
+59,35,35,4,light,high,6.8,sedentary,10,good,70.8,162.1,26.94,implant,0,0,0,good,5,0,7
+60,30,65,3,medium,high,4.8,sedentary,10,fair,86.7,154.1,36.49,oral contraceptive,0,1,0,excellent,8,1,37
+61,32,35,7,light,low,7.6,moderate,6,fair,74.0,165.2,27.13,implant,0,0,0,neutral,2,0,7
+62,38,32,4,heavy,medium,7.0,active,10,good,63.7,153.8,26.92,none,0,0,0,good,2,0,4
+63,40,52,3,heavy,medium,7.7,moderate,11,fair,86.9,164.3,32.18,implant,0,0,0,excellent,7,1,24
+64,39,27,7,medium,high,7.8,moderate,7,poor,80.3,172.9,26.87,none,0,0,0,good,9,0,0
+65,43,26,6,medium,low,8.9,sedentary,6,excellent,54.0,157.7,21.7,oral contraceptive,0,0,0,depressed,5,0,0
+66,29,30,4,light,low,6.9,light,4,fair,50.9,164.4,18.82,none,0,0,0,good,9,0,2
+67,15,34,6,medium,high,5.7,light,9,fair,75.4,179.8,23.34,none,0,0,0,good,2,0,6
+68,39,26,5,heavy,low,7.2,light,5,poor,70.2,170.6,24.12,oral contraceptive,0,0,0,good,1,0,0
+69,21,67,7,light,medium,4.3,sedentary,11,excellent,80.5,175.2,26.23,oral contraceptive,0,0,0,excellent,1,1,39
+70,23,34,7,medium,medium,8.5,moderate,4,good,78.2,162.4,29.65,none,0,0,0,excellent,1,0,6
+71,38,61,4,medium,medium,4.6,light,7,good,73.1,173.0,24.43,implant,1,0,1,anxious,4,1,33
+72,15,27,7,medium,medium,5.6,moderate,9,excellent,89.4,151.2,39.09,none,0,0,0,depressed,4,0,0
+73,22,24,5,medium,medium,8.1,light,10,fair,69.0,153.7,29.22,implant,1,0,0,good,0,0,0
+74,38,24,7,heavy,low,7.0,sedentary,7,good,50.1,156.1,20.56,implant,0,0,0,neutral,1,0,0
+75,25,35,3,light,medium,6.0,moderate,6,poor,82.3,162.1,31.33,implant,0,0,0,depressed,1,0,7
+76,31,58,6,medium,high,6.4,sedentary,3,fair,56.3,175.4,18.32,IUD,0,0,0,good,3,1,30
+77,22,64,5,medium,high,8.3,active,3,good,80.0,160.4,31.09,implant,1,0,1,good,6,1,36
+78,49,27,5,light,low,5.7,moderate,10,good,88.1,169.6,30.6,IUD,0,0,0,anxious,2,0,0
+79,49,29,6,medium,low,8.3,sedentary,3,fair,76.4,171.3,26.03,none,0,0,0,neutral,4,0,1
+80,47,26,6,light,low,4.4,active,3,fair,71.8,167.6,25.57,IUD,0,0,0,good,10,0,0
+81,19,34,5,light,medium,7.9,light,4,good,65.7,160.7,25.44,implant,0,1,0,good,8,0,6
+82,42,31,6,light,medium,8.2,sedentary,4,poor,61.4,167.3,21.93,oral contraceptive,0,0,0,excellent,4,0,3
+83,21,27,4,heavy,medium,4.9,moderate,5,fair,60.9,160.3,23.7,none,0,0,0,good,8,0,0
+84,23,26,6,medium,low,6.2,light,8,fair,73.6,152.5,31.66,none,0,0,0,neutral,0,0,0
+85,22,148,3,heavy,low,4.8,moderate,10,fair,78.8,179.8,24.38,IUD,0,0,0,neutral,8,1,120
+86,26,30,3,medium,medium,7.5,moderate,3,good,75.5,153.8,31.93,implant,1,0,0,neutral,4,0,2
+87,48,43,4,medium,medium,6.7,active,5,fair,53.9,152.2,23.29,none,1,0,1,good,7,1,15
+88,47,30,6,medium,low,7.2,light,10,fair,67.2,176.4,21.62,none,0,0,0,good,4,0,2
+89,37,25,3,heavy,medium,5.0,light,3,good,80.6,159.1,31.87,none,0,0,0,excellent,5,0,0
+90,38,146,7,medium,low,5.1,moderate,11,excellent,66.4,169.5,23.11,oral contraceptive,1,0,0,anxious,7,1,118
+91,49,28,6,medium,high,4.2,sedentary,2,fair,69.1,159.9,27.05,none,0,0,0,neutral,1,0,0
+92,36,27,4,light,high,5.6,light,11,poor,79.7,161.7,30.47,oral contraceptive,0,0,1,good,2,0,0
+93,41,27,6,medium,low,6.8,light,9,fair,74.8,157.9,30.0,implant,1,0,0,good,10,0,0
+94,49,27,5,medium,low,8.3,sedentary,10,good,63.4,160.3,24.68,oral contraceptive,0,0,0,anxious,8,0,0
+95,15,71,5,heavy,medium,7.3,light,8,good,85.3,162.3,32.37,none,0,0,1,neutral,4,1,43
+96,49,30,3,medium,low,6.2,active,9,good,52.3,171.6,17.76,none,0,0,0,good,4,0,2
+97,28,102,5,medium,medium,8.8,active,5,excellent,89.8,165.3,32.85,implant,1,0,1,good,8,1,74
+98,17,61,4,medium,high,7.6,sedentary,5,good,50.3,178.3,15.84,none,1,0,0,good,9,1,33
+99,15,31,3,light,medium,8.7,sedentary,3,good,45.7,151.3,19.96,none,1,0,0,anxious,2,0,3
+100,19,30,4,light,high,6.6,light,9,good,85.1,165.1,31.21,oral contraceptive,0,0,0,neutral,3,0,2
+101,40,30,4,heavy,medium,5.3,active,3,poor,56.0,167.5,19.96,none,1,1,0,neutral,6,0,2
+102,28,29,5,medium,low,4.3,sedentary,10,excellent,77.8,177.6,24.68,oral contraceptive,0,0,1,anxious,1,0,1
+103,41,30,5,heavy,medium,7.6,moderate,5,fair,81.5,151.5,35.52,oral contraceptive,0,0,0,depressed,7,0,2
+104,23,30,4,heavy,medium,4.6,sedentary,2,fair,83.7,167.2,29.92,IUD,0,0,0,good,4,0,2
+105,29,33,5,medium,medium,5.5,moderate,5,good,89.6,175.6,29.06,implant,0,0,0,good,0,0,5
+106,29,25,5,medium,low,6.7,light,4,fair,58.2,157.3,23.55,none,0,0,0,good,2,0,0
+107,40,33,5,light,low,6.8,moderate,7,good,77.0,176.3,24.76,none,0,0,0,excellent,8,0,5
+108,27,45,6,heavy,high,7.0,sedentary,8,good,50.2,150.6,22.14,none,0,0,1,neutral,4,1,17
+109,46,30,4,medium,low,4.8,moderate,9,fair,63.3,172.0,21.41,oral contraceptive,0,0,0,anxious,7,0,2
+110,46,33,7,medium,high,5.9,sedentary,3,good,83.2,178.0,26.25,IUD,0,0,0,neutral,0,0,5
+111,18,30,4,medium,high,7.1,moderate,7,fair,61.5,169.7,21.37,none,0,0,0,good,6,0,2
+112,44,30,3,medium,high,8.8,active,7,fair,71.6,163.2,26.89,none,0,1,0,excellent,6,0,2
+113,37,28,5,medium,medium,7.6,sedentary,11,good,67.7,151.3,29.54,implant,0,0,0,good,7,0,0
+114,29,24,5,medium,medium,8.6,active,6,good,74.1,177.6,23.48,implant,0,0,0,anxious,2,0,0
+115,43,25,7,heavy,high,7.8,moderate,11,good,88.8,164.1,32.96,none,0,0,0,good,0,0,0
+116,27,32,3,heavy,low,7.0,sedentary,11,fair,47.5,150.9,20.87,IUD,0,1,0,excellent,10,0,4
+117,46,31,6,medium,medium,5.0,light,8,good,70.8,170.7,24.31,oral contraceptive,0,0,0,good,8,0,3
+118,21,31,4,medium,medium,7.3,sedentary,4,fair,83.8,164.5,31.0,none,0,0,0,depressed,0,0,3
+119,36,33,6,heavy,medium,7.1,moderate,5,excellent,66.7,153.7,28.21,none,1,0,0,neutral,10,0,5
+120,42,24,3,light,medium,7.0,moderate,11,fair,48.5,156.4,19.83,none,0,0,0,anxious,5,0,0
+121,16,50,7,heavy,medium,6.4,sedentary,10,good,70.2,151.9,30.42,none,0,0,0,neutral,8,1,22
+122,20,32,3,light,medium,6.6,light,5,poor,59.9,167.2,21.43,none,0,0,0,neutral,1,0,4
+123,42,55,7,medium,high,5.7,moderate,4,fair,52.0,168.7,18.27,oral contraceptive,1,0,0,excellent,3,1,27
+124,42,26,6,medium,low,6.6,active,3,good,83.2,165.2,30.5,none,0,0,0,good,1,0,0
+125,34,43,6,medium,high,5.0,light,6,excellent,68.5,174.5,22.48,none,1,0,0,neutral,3,1,15
+126,44,33,3,heavy,medium,8.0,active,5,good,87.0,175.8,28.14,oral contraceptive,0,0,0,anxious,1,0,5
+127,25,53,3,light,high,4.9,light,9,excellent,81.3,168.5,28.63,none,1,0,0,good,0,1,25
+128,42,129,5,medium,medium,4.4,light,8,good,76.2,150.4,33.69,oral contraceptive,0,0,1,excellent,10,1,101
+129,39,35,7,medium,high,6.2,moderate,7,good,45.2,170.9,15.49,none,1,0,0,neutral,2,0,7
+130,47,34,5,heavy,low,7.3,light,3,poor,64.3,162.5,24.32,oral contraceptive,0,1,0,good,7,0,6
+131,15,29,4,light,high,6.2,light,4,good,53.9,167.0,19.33,none,0,0,0,neutral,4,0,1
+132,41,31,4,heavy,low,5.4,light,11,fair,86.0,169.5,29.94,implant,0,0,0,good,3,0,3
+133,27,32,3,medium,high,6.8,moderate,10,excellent,52.9,160.5,20.52,none,0,0,0,good,4,0,4
+134,17,60,6,light,high,5.7,moderate,10,excellent,57.9,177.5,18.37,none,0,1,0,good,5,1,32
+135,20,25,4,heavy,low,8.7,light,6,excellent,68.3,154.0,28.77,oral contraceptive,1,0,0,neutral,5,0,0
+136,22,24,4,light,low,8.6,light,4,good,56.9,170.1,19.64,none,1,0,0,neutral,4,0,0
+137,41,31,5,medium,high,6.5,light,3,good,54.4,150.1,24.16,IUD,0,0,0,good,10,0,3
+138,23,31,5,light,low,5.6,moderate,9,good,72.0,177.7,22.78,IUD,0,0,0,anxious,5,0,3
+139,47,34,4,medium,high,7.7,sedentary,7,poor,49.0,153.4,20.83,none,0,0,0,excellent,8,0,6
+140,38,27,3,medium,low,4.2,moderate,11,good,47.6,152.8,20.38,oral contraceptive,0,0,0,excellent,4,0,0
+141,29,31,5,medium,low,6.4,light,8,poor,61.8,160.0,24.12,none,0,0,0,neutral,5,0,3
+142,46,123,4,medium,high,5.7,light,2,good,77.4,161.2,29.79,implant,0,1,0,excellent,3,1,95
+143,46,28,6,medium,medium,8.6,sedentary,2,fair,70.0,156.4,28.59,none,0,0,0,neutral,2,0,0
+144,38,33,5,light,high,4.1,sedentary,11,fair,64.0,167.6,22.81,IUD,0,0,0,depressed,5,0,5
+145,26,27,4,medium,medium,6.8,active,3,fair,70.5,163.3,26.43,none,0,0,0,neutral,10,0,0
+146,16,26,7,heavy,medium,7.7,light,11,fair,61.4,151.0,26.94,none,0,0,0,neutral,10,0,0
+147,17,24,5,heavy,medium,6.4,sedentary,4,good,87.1,159.6,34.21,none,0,0,0,neutral,4,0,0
+148,31,28,7,light,medium,4.4,light,2,poor,47.5,174.3,15.62,oral contraceptive,0,0,0,good,3,0,0
+149,16,33,5,light,medium,8.9,light,6,good,75.3,170.7,25.85,none,1,0,0,good,4,0,5
+150,16,31,5,heavy,medium,6.6,sedentary,4,fair,85.1,171.7,28.85,none,0,0,0,good,6,0,3
+151,42,35,7,medium,medium,7.1,light,2,good,81.2,170.9,27.78,implant,0,1,0,depressed,0,0,7
+152,37,32,3,medium,low,5.2,light,9,good,53.3,159.3,20.99,IUD,0,0,0,good,0,0,4
+153,46,148,4,heavy,high,6.4,moderate,7,good,58.3,153.0,24.92,none,0,0,1,good,10,1,120
+154,47,24,3,medium,low,6.1,light,10,good,77.3,158.2,30.88,oral contraceptive,1,1,0,anxious,0,0,0
+155,15,52,3,medium,medium,4.4,light,4,fair,48.8,175.0,15.94,none,0,0,0,neutral,1,1,24
+156,33,25,4,heavy,low,4.5,active,10,good,81.5,179.4,25.33,none,0,0,0,depressed,8,0,0
+157,16,24,6,medium,medium,8.2,light,10,fair,77.4,164.8,28.48,none,0,0,0,neutral,4,0,0
+158,40,130,3,light,medium,5.2,light,2,good,77.8,150.3,34.46,none,1,0,1,good,8,1,102
+159,46,102,3,light,low,5.0,sedentary,4,good,49.5,154.2,20.82,none,1,0,0,anxious,4,1,74
+160,20,44,3,light,low,6.5,light,7,poor,77.3,159.7,30.32,none,0,0,0,good,6,1,16
+161,46,30,6,heavy,low,7.8,moderate,9,good,75.6,167.4,26.99,oral contraceptive,0,0,0,good,5,0,2
+162,18,55,5,medium,medium,4.3,sedentary,5,good,82.4,152.3,35.54,none,0,0,0,neutral,1,1,27
+163,25,69,7,light,high,6.9,moderate,6,fair,46.9,178.3,14.74,oral contraceptive,1,0,0,neutral,2,1,41
+164,31,34,7,heavy,low,4.6,sedentary,10,poor,46.0,161.0,17.77,none,0,0,0,anxious,4,0,6
+165,38,28,6,light,medium,4.2,light,7,poor,61.8,177.4,19.64,none,1,0,0,depressed,3,0,0
+166,19,31,3,light,medium,4.3,moderate,8,excellent,51.7,173.4,17.19,oral contraceptive,0,1,1,anxious,10,0,3
+167,48,26,7,light,medium,8.2,light,8,good,70.1,172.7,23.52,none,0,0,0,excellent,5,0,0
+168,20,32,6,light,high,4.6,moderate,5,poor,86.3,168.2,30.5,none,0,0,0,neutral,7,0,4
+169,36,30,4,medium,medium,4.2,sedentary,5,fair,62.6,168.8,21.97,none,0,0,0,neutral,7,0,2
+170,25,32,7,heavy,medium,6.2,moderate,5,good,83.0,169.1,29.02,oral contraceptive,0,0,0,depressed,2,0,4
+171,30,24,4,heavy,low,8.2,sedentary,6,good,45.0,168.9,15.79,oral contraceptive,0,1,0,good,3,0,0
+172,47,28,3,medium,low,5.3,active,6,poor,52.6,166.6,18.94,none,0,0,0,good,0,0,0
+173,23,35,7,medium,low,6.1,sedentary,9,fair,46.4,179.6,14.38,none,0,0,0,anxious,1,0,7
+174,20,39,6,medium,low,4.2,active,10,excellent,59.8,172.0,20.21,IUD,0,0,0,good,8,1,11
+175,30,27,5,light,medium,6.2,light,3,poor,85.9,173.3,28.59,implant,0,0,1,neutral,9,0,0
+176,43,42,7,light,medium,6.9,moderate,8,fair,49.4,176.2,15.9,none,1,0,0,good,9,1,14
+177,17,33,7,heavy,medium,6.9,light,2,excellent,72.3,156.5,29.53,none,1,1,0,good,1,0,5
+178,34,34,7,light,low,5.7,active,2,good,65.3,152.5,28.08,oral contraceptive,1,0,0,neutral,5,0,6
+179,33,99,7,light,low,5.6,sedentary,5,fair,87.2,164.5,32.24,none,1,0,0,good,6,1,71
+180,40,74,6,medium,medium,4.5,sedentary,11,poor,50.5,165.4,18.46,none,0,0,0,neutral,5,1,46
+181,17,26,6,medium,high,5.8,light,8,poor,54.5,174.9,17.83,none,0,0,0,excellent,7,0,0
+182,33,26,5,light,low,4.5,sedentary,3,fair,46.3,163.3,17.37,none,0,0,1,good,8,0,0
+183,34,26,6,light,high,7.8,sedentary,3,excellent,64.5,167.1,23.1,oral contraceptive,0,0,0,good,7,0,0
+184,46,35,6,medium,medium,8.8,active,2,fair,57.5,165.8,20.91,none,0,0,1,neutral,4,0,7
+185,21,27,3,medium,medium,8.9,active,11,good,84.1,151.1,36.83,implant,0,0,0,good,7,0,0
+186,47,29,3,light,medium,8.3,light,3,excellent,72.2,168.5,25.45,oral contraceptive,0,0,0,neutral,9,0,1
+187,32,28,4,medium,low,7.0,active,8,fair,72.6,174.8,23.76,none,0,0,0,neutral,9,0,0
+188,15,31,5,medium,low,7.5,light,10,fair,68.9,154.7,28.8,none,0,0,1,neutral,8,0,3
+189,25,101,3,heavy,medium,5.4,light,7,good,49.1,167.8,17.44,IUD,0,0,0,neutral,7,1,73
+190,42,28,5,medium,medium,7.2,moderate,11,excellent,65.0,167.8,23.09,none,0,0,0,good,1,0,0
+191,39,34,5,light,high,6.3,moderate,3,good,90.0,154.9,37.49,none,0,0,0,good,1,0,6
+192,37,35,7,medium,medium,6.4,active,11,poor,82.6,153.7,34.96,none,1,0,0,neutral,2,0,7
+193,45,28,5,medium,low,7.8,light,11,good,85.2,179.4,26.47,none,0,0,0,excellent,6,0,0
+194,44,33,7,light,medium,5.4,moderate,10,good,82.0,161.8,31.34,none,0,0,1,anxious,8,0,5
+195,49,148,4,medium,low,5.6,sedentary,8,excellent,49.6,156.8,20.18,none,1,0,0,anxious,7,1,120
+196,21,47,4,light,medium,8.6,sedentary,2,poor,55.2,155.1,22.95,none,1,0,0,good,8,1,19
+197,30,150,4,light,medium,4.3,sedentary,10,good,45.1,170.0,15.61,none,1,0,1,neutral,5,1,122
+198,40,29,7,medium,high,6.4,active,3,excellent,58.7,168.3,20.71,implant,0,0,0,anxious,0,0,1
+199,16,114,7,medium,high,8.6,moderate,5,fair,49.9,169.3,17.4,none,0,0,1,good,3,1,86
+200,15,27,4,heavy,medium,7.1,moderate,10,good,66.3,152.6,28.45,none,0,0,0,neutral,5,0,0
+201,26,33,7,medium,medium,6.7,light,5,poor,75.5,176.8,24.14,none,0,0,0,excellent,5,0,5
+202,19,49,6,medium,high,5.2,light,4,fair,84.4,161.7,32.27,none,0,0,0,neutral,7,1,21
+203,46,97,6,medium,low,5.7,sedentary,2,fair,78.7,159.4,30.98,implant,0,1,1,anxious,0,1,69
+204,23,30,7,medium,low,8.3,light,8,excellent,87.2,163.9,32.49,oral contraceptive,0,0,0,neutral,10,0,2
+205,49,31,7,light,low,6.8,light,7,fair,47.4,161.7,18.14,oral contraceptive,0,0,0,neutral,1,0,3
+206,33,25,3,heavy,low,6.6,moderate,11,good,45.5,175.9,14.72,none,0,0,0,anxious,1,0,0
+207,30,26,3,heavy,medium,4.5,light,5,good,74.8,177.9,23.63,oral contraceptive,0,1,0,neutral,5,0,0
+208,17,32,5,light,medium,4.1,sedentary,7,fair,58.0,159.1,22.92,none,0,0,0,neutral,10,0,4
+209,34,24,5,light,medium,8.8,sedentary,7,good,56.4,175.9,18.23,none,0,0,0,neutral,6,0,0
+210,38,59,5,light,low,5.9,sedentary,5,good,59.9,173.4,19.91,oral contraceptive,0,0,1,neutral,1,1,31
+211,47,30,4,medium,medium,7.0,light,7,excellent,57.1,177.9,18.05,implant,1,0,0,anxious,4,0,2
+212,38,34,6,medium,medium,4.4,active,11,good,68.0,157.4,27.46,oral contraceptive,0,0,0,depressed,5,0,6
+213,25,28,4,heavy,medium,7.4,moderate,9,good,64.8,167.3,23.15,none,0,0,0,neutral,3,0,0
+214,22,27,7,heavy,medium,8.7,moderate,4,poor,68.1,158.2,27.18,oral contraceptive,0,0,0,neutral,0,0,0
+215,34,33,3,medium,medium,6.9,light,5,excellent,75.3,174.7,24.66,oral contraceptive,0,0,0,excellent,2,0,5
+216,49,33,7,medium,low,4.6,light,11,poor,62.4,150.2,27.68,oral contraceptive,0,1,0,anxious,9,0,5
+217,39,33,7,medium,low,6.9,sedentary,2,good,56.3,166.9,20.2,oral contraceptive,0,0,0,neutral,8,0,5
+218,49,33,3,medium,high,7.8,active,5,fair,52.5,160.2,20.45,oral contraceptive,0,0,0,neutral,5,0,5
+219,39,29,7,medium,high,6.0,moderate,11,excellent,60.7,159.7,23.82,oral contraceptive,0,0,0,good,1,0,1
+220,43,35,5,medium,medium,8.4,sedentary,11,good,78.4,169.3,27.33,implant,1,0,0,anxious,8,0,7
+221,32,34,3,medium,low,7.2,light,10,good,79.1,175.5,25.65,IUD,0,0,0,excellent,3,0,6
+222,32,24,7,medium,medium,8.5,light,9,fair,75.0,168.3,26.49,none,0,0,0,good,10,0,0
+223,16,28,5,medium,medium,7.1,moderate,5,fair,55.5,175.6,18.01,none,1,0,0,neutral,7,0,0
+224,49,55,5,medium,high,4.7,active,8,good,71.5,157.9,28.65,oral contraceptive,1,0,0,neutral,9,1,27
+225,30,30,6,medium,low,5.5,moderate,11,good,70.7,165.6,25.78,none,0,0,0,good,6,0,2
+226,47,32,5,medium,low,5.0,light,4,poor,66.8,163.5,24.98,IUD,0,0,0,neutral,10,0,4
+227,18,31,4,medium,medium,8.5,sedentary,10,excellent,69.7,150.3,30.86,none,0,0,0,good,2,0,3
+228,47,34,3,medium,medium,7.8,sedentary,11,excellent,67.1,166.7,24.16,oral contraceptive,0,0,0,excellent,7,0,6
+229,28,35,3,light,low,7.4,sedentary,5,fair,70.4,169.8,24.42,IUD,0,0,0,good,3,0,7
+230,35,111,3,light,low,5.5,sedentary,3,good,77.2,167.8,27.43,none,0,0,0,anxious,1,1,83
+231,34,25,7,medium,medium,4.9,moderate,11,good,49.9,172.1,16.86,IUD,0,1,0,good,10,0,0
+232,22,34,7,medium,high,7.8,moderate,6,good,78.7,167.1,28.18,oral contraceptive,1,0,0,excellent,4,0,6
+233,21,124,4,heavy,high,6.4,sedentary,3,fair,51.1,152.0,22.12,none,1,0,0,neutral,0,1,96
+234,17,28,5,medium,medium,5.1,moderate,11,good,48.0,153.5,20.37,none,0,0,0,good,7,0,0
+235,31,25,7,medium,medium,7.1,sedentary,7,good,88.9,167.9,31.55,none,0,0,0,neutral,7,0,0
+236,47,40,5,light,low,4.2,light,11,fair,88.1,158.2,35.17,implant,0,0,0,anxious,2,1,12
+237,26,33,5,light,medium,5.6,sedentary,2,good,47.7,152.4,20.55,none,0,0,0,anxious,0,0,5
+238,36,27,7,heavy,medium,6.3,light,7,good,64.9,162.9,24.48,oral contraceptive,0,0,0,good,3,0,0
+239,36,25,7,light,medium,4.7,light,5,good,53.4,166.6,19.23,oral contraceptive,0,0,0,neutral,8,0,0
+240,44,35,4,medium,medium,8.9,light,4,poor,66.8,159.9,26.15,implant,0,0,1,neutral,8,0,7
+241,22,34,6,medium,low,5.0,light,3,excellent,82.4,171.6,27.96,oral contraceptive,0,1,0,good,0,0,6
+242,41,28,3,medium,low,4.7,active,8,good,87.8,169.3,30.62,oral contraceptive,0,0,0,excellent,10,0,0
+243,41,28,7,heavy,medium,5.0,sedentary,10,fair,73.5,160.0,28.73,implant,0,0,0,good,6,0,0
+244,48,34,7,medium,low,7.8,sedentary,4,fair,60.9,172.6,20.44,IUD,0,0,0,excellent,5,0,6
+245,35,30,5,medium,low,6.1,sedentary,7,good,72.1,169.5,25.12,oral contraceptive,0,0,0,depressed,6,0,2
+246,44,24,6,heavy,high,6.8,moderate,10,excellent,59.0,169.1,20.64,none,1,0,0,neutral,6,0,0
+247,47,27,7,heavy,medium,4.1,sedentary,3,fair,85.9,166.6,30.96,none,0,0,0,good,7,0,0
+248,42,56,6,light,medium,4.2,moderate,8,good,84.2,150.3,37.24,oral contraceptive,0,0,0,good,7,1,28
+249,47,31,3,light,high,6.2,light,6,poor,70.1,170.9,24.01,oral contraceptive,0,0,0,depressed,9,0,3
+250,19,59,5,light,high,8.1,light,6,good,59.6,161.3,22.92,none,0,0,0,good,10,1,31
+251,33,45,4,medium,medium,8.4,moderate,8,excellent,58.2,178.3,18.31,none,0,0,0,neutral,1,1,17
+252,18,24,3,heavy,high,4.4,sedentary,10,good,46.5,174.5,15.27,oral contraceptive,0,0,0,good,3,0,0
+253,49,24,6,medium,medium,6.7,sedentary,5,fair,81.7,167.6,29.08,none,0,0,0,anxious,3,0,0
+254,31,25,6,medium,medium,8.6,light,10,good,65.3,157.6,26.29,none,0,0,0,neutral,10,0,0
+255,42,25,3,heavy,medium,5.9,moderate,11,fair,59.6,156.1,24.47,none,1,0,0,excellent,9,0,0
+256,44,32,6,medium,medium,8.1,sedentary,10,fair,66.2,160.2,25.79,IUD,0,0,0,good,7,0,4
+257,43,27,4,medium,medium,4.7,sedentary,5,good,81.8,164.3,30.32,oral contraceptive,0,0,0,neutral,2,0,0
+258,20,26,4,heavy,medium,8.7,active,4,good,50.6,158.9,20.05,none,1,0,0,anxious,2,0,0
+259,49,34,6,heavy,low,7.8,sedentary,3,fair,83.6,165.4,30.54,none,0,0,0,excellent,1,0,6
+260,38,24,6,heavy,medium,8.7,moderate,10,excellent,85.4,155.0,35.56,oral contraceptive,1,0,1,neutral,0,0,0
+261,43,35,4,medium,low,7.4,moderate,3,good,87.6,179.3,27.24,IUD,0,0,0,good,7,0,7
+262,45,25,6,heavy,medium,5.8,light,7,fair,62.9,153.2,26.78,oral contraceptive,0,0,0,anxious,8,0,0
+263,49,29,7,light,medium,8.7,sedentary,6,good,54.8,178.0,17.29,none,0,0,0,neutral,8,0,1
+264,47,32,5,medium,medium,5.4,sedentary,6,good,61.8,177.4,19.64,none,0,0,0,good,10,0,4
+265,35,64,7,heavy,high,5.7,moderate,5,good,60.0,165.8,21.83,IUD,0,0,0,good,7,1,36
+266,46,28,6,medium,high,7.5,moderate,7,good,52.9,171.7,17.94,none,0,1,1,excellent,4,0,0
+267,37,32,6,heavy,medium,7.8,moderate,6,good,72.3,163.1,27.2,oral contraceptive,0,1,0,neutral,0,0,4
+268,47,35,5,medium,medium,8.6,active,5,fair,66.4,168.9,23.29,none,0,0,0,good,8,0,7
+269,17,30,6,light,medium,5.0,moderate,10,good,84.0,160.2,32.71,none,0,0,0,good,5,0,2
+270,32,31,5,heavy,low,8.0,sedentary,7,good,46.4,159.0,18.36,none,1,0,0,depressed,6,0,3
+271,39,27,4,light,low,7.7,sedentary,11,poor,74.0,167.3,26.41,none,1,1,0,good,7,0,0
+272,45,34,5,medium,low,4.3,moderate,11,good,79.3,164.9,29.16,oral contraceptive,1,0,0,neutral,4,0,6
+273,17,31,5,light,medium,5.9,sedentary,11,excellent,79.2,167.4,28.26,none,0,0,0,good,5,0,3
+274,38,29,7,heavy,medium,5.4,sedentary,4,excellent,84.9,158.6,33.74,none,0,0,0,excellent,6,0,1
+275,46,63,6,medium,high,5.5,moderate,11,fair,77.8,161.0,30.01,none,0,0,1,good,6,1,35
+276,36,30,4,light,low,8.9,light,7,poor,86.8,152.5,37.29,none,0,0,0,neutral,1,0,2
+277,37,29,3,light,low,7.2,active,2,good,60.0,151.6,26.1,none,0,0,0,neutral,10,0,1
+278,16,26,5,heavy,high,7.6,moderate,6,poor,67.6,157.6,27.23,none,0,0,0,anxious,0,0,0
+279,41,28,3,medium,low,8.9,sedentary,11,excellent,45.6,152.2,19.69,none,0,0,0,good,7,0,0
+280,16,32,6,medium,medium,5.9,active,7,fair,45.3,153.1,19.33,none,0,0,1,good,4,0,4
+281,40,30,5,medium,medium,8.0,light,9,fair,55.8,174.4,18.35,none,0,0,0,anxious,9,0,2
+282,31,35,3,medium,medium,6.2,light,10,fair,49.5,151.2,21.68,none,0,0,0,good,1,0,7
+283,47,27,7,light,low,8.3,light,4,fair,56.7,169.8,19.68,IUD,0,0,0,good,2,0,0
+284,23,100,3,medium,low,4.9,sedentary,3,good,53.0,158.2,21.17,oral contraceptive,1,0,1,excellent,5,1,72
+285,43,123,7,light,low,8.7,light,5,good,46.3,176.1,14.92,none,0,0,0,neutral,9,1,95
+286,40,29,4,heavy,medium,5.1,sedentary,9,fair,85.9,164.5,31.73,none,0,0,0,anxious,5,0,1
+287,49,30,6,heavy,medium,5.6,light,9,fair,45.4,159.2,17.91,oral contraceptive,0,0,0,excellent,7,0,2
+288,39,31,3,medium,low,7.8,light,4,good,78.1,165.5,28.51,none,0,0,1,good,4,0,3
+289,38,29,5,light,medium,6.0,moderate,5,poor,51.8,161.5,19.89,none,0,0,0,neutral,4,0,1
+290,27,74,6,heavy,high,7.0,moderate,4,good,86.1,166.9,30.88,oral contraceptive,0,0,0,anxious,6,1,46
+291,21,25,3,light,low,6.2,sedentary,11,good,85.2,153.4,36.18,implant,0,0,0,good,9,0,0
+292,34,29,5,light,medium,7.7,light,3,good,74.4,179.9,22.99,oral contraceptive,0,0,0,anxious,4,0,1
+293,15,55,5,light,medium,5.1,light,5,excellent,75.3,162.8,28.4,none,0,0,0,good,8,1,27
+294,22,94,5,medium,low,4.3,sedentary,7,excellent,45.2,160.4,17.57,none,0,0,0,good,5,1,66
+295,30,61,5,heavy,medium,5.5,moderate,6,excellent,89.3,171.3,30.44,IUD,1,0,0,excellent,6,1,33
+296,28,26,3,medium,medium,6.4,moderate,4,fair,84.5,160.9,32.63,none,0,0,0,good,7,0,0
+297,26,31,4,light,high,4.8,sedentary,3,poor,85.3,175.0,27.85,IUD,0,0,0,good,4,0,3
+298,37,32,7,medium,high,5.8,light,10,fair,74.7,163.6,27.89,none,1,0,0,anxious,10,0,4
+299,29,32,7,medium,medium,6.0,sedentary,2,excellent,60.5,171.6,20.55,none,0,0,0,good,3,0,4
+300,42,33,7,light,medium,4.3,moderate,10,excellent,85.2,153.2,36.3,oral contraceptive,0,0,0,good,7,0,5
+301,48,25,4,light,medium,6.9,sedentary,2,excellent,58.1,175.4,18.89,implant,0,0,0,excellent,9,0,0
+302,16,27,5,heavy,medium,8.4,active,8,poor,70.3,172.1,23.75,none,0,0,0,neutral,8,0,0
+303,46,28,5,heavy,medium,4.8,moderate,7,excellent,49.5,156.4,20.24,IUD,1,0,0,anxious,0,0,0
+304,37,26,6,heavy,low,7.0,light,8,fair,86.5,154.4,36.3,oral contraceptive,0,0,0,good,2,0,0
+305,36,34,7,heavy,medium,7.3,moderate,4,poor,51.3,159.5,20.18,oral contraceptive,1,0,0,good,3,0,6
+306,39,24,7,light,medium,6.1,active,4,fair,55.1,179.3,17.15,oral contraceptive,0,0,0,excellent,6,0,0
+307,36,29,5,light,medium,7.5,moderate,2,poor,70.1,157.7,28.19,oral contraceptive,0,0,1,good,5,0,1
+308,36,33,7,medium,high,6.1,sedentary,5,good,79.4,163.7,29.63,IUD,0,0,0,excellent,9,0,5
+309,20,25,5,medium,low,6.5,light,3,fair,72.9,150.9,32.0,none,0,0,0,neutral,9,0,0
+310,29,36,5,heavy,medium,4.0,moderate,11,good,55.4,161.9,21.15,none,0,0,0,neutral,10,1,8
+311,47,58,5,heavy,low,7.5,moderate,9,good,45.0,167.1,16.12,implant,1,0,1,neutral,0,1,30
+312,22,34,3,medium,high,7.3,moderate,4,excellent,79.1,178.6,24.79,implant,0,1,0,good,3,0,6
+313,19,37,3,light,medium,4.2,active,8,good,89.3,165.5,32.61,none,1,0,0,good,5,1,9
+314,18,129,3,heavy,medium,5.8,active,8,fair,81.4,174.6,26.72,none,0,0,0,neutral,2,1,101
+315,20,51,3,heavy,medium,8.9,active,10,good,65.7,166.4,23.73,implant,1,0,0,neutral,1,1,23
+316,46,28,4,light,medium,6.1,sedentary,7,excellent,85.7,151.2,37.46,oral contraceptive,0,0,0,excellent,1,0,0
+317,44,35,6,heavy,high,6.5,light,2,poor,63.4,159.5,24.95,oral contraceptive,0,0,0,anxious,9,0,7
+318,49,34,6,medium,medium,8.5,moderate,9,good,68.6,167.3,24.53,none,0,0,1,good,3,0,6
+319,30,29,5,light,medium,7.6,moderate,2,fair,66.5,178.5,20.86,IUD,0,0,0,good,0,0,1
+320,27,26,7,medium,high,6.9,moderate,4,poor,65.1,175.8,21.08,none,0,0,0,excellent,9,0,0
+321,44,35,3,medium,low,8.0,sedentary,6,good,79.9,156.9,32.47,none,0,0,0,depressed,1,0,7
+322,33,25,6,light,low,8.3,moderate,9,excellent,68.7,156.6,28.01,none,0,0,0,good,9,0,0
+323,31,34,6,medium,medium,6.3,moderate,10,fair,59.3,156.0,24.34,implant,1,0,0,anxious,1,0,6
+324,33,29,3,heavy,high,6.4,sedentary,8,good,56.6,177.7,17.93,oral contraceptive,0,0,0,good,3,0,1
+325,42,66,4,medium,medium,5.9,light,10,excellent,46.7,175.6,15.15,IUD,0,0,0,good,3,1,38
+326,40,24,4,medium,low,8.8,sedentary,4,excellent,71.2,173.2,23.74,none,0,0,1,neutral,0,0,0
+327,40,31,6,light,medium,7.5,light,6,fair,55.3,161.8,21.15,implant,0,0,0,excellent,6,0,3
+328,37,50,4,light,medium,4.4,sedentary,11,excellent,51.7,165.1,18.95,IUD,0,0,0,good,6,1,22
+329,23,28,3,medium,low,8.3,light,9,fair,74.4,163.9,27.69,IUD,0,0,0,good,9,0,0
+330,26,62,6,light,medium,6.4,light,2,good,75.7,157.6,30.46,implant,0,0,0,anxious,10,1,34
+331,15,35,3,light,high,4.3,moderate,9,poor,78.8,165.2,28.91,none,0,0,0,neutral,9,0,7
+332,15,35,4,light,medium,6.7,moderate,8,poor,67.7,150.9,29.71,none,0,0,0,good,9,0,7
+333,48,26,3,medium,medium,6.1,moderate,2,good,85.2,154.0,35.96,none,0,0,0,good,0,0,0
+334,46,30,4,medium,medium,8.4,sedentary,11,fair,87.1,176.6,27.94,oral contraceptive,0,0,0,neutral,10,0,2
+335,39,25,4,heavy,low,5.0,sedentary,11,fair,81.3,172.6,27.32,implant,0,0,0,good,7,0,0
+336,15,30,3,light,high,8.1,active,7,fair,73.6,162.7,27.81,none,0,0,0,good,9,0,2
+337,30,74,4,medium,medium,6.8,sedentary,2,good,58.7,165.5,21.42,IUD,0,0,1,good,6,1,46
+338,19,34,5,light,medium,4.3,active,3,poor,89.2,161.1,34.38,oral contraceptive,0,0,0,neutral,6,0,6
+339,36,34,3,medium,medium,8.9,moderate,6,good,57.3,172.2,19.33,none,0,0,0,good,10,0,6
+340,43,26,5,light,medium,6.6,light,3,poor,54.1,173.5,17.97,oral contraceptive,0,0,0,neutral,5,0,0
+341,17,34,3,heavy,medium,5.5,active,11,fair,64.9,172.9,21.71,none,0,0,0,neutral,3,0,6
+342,26,38,4,heavy,low,6.3,sedentary,2,fair,47.6,171.7,16.14,oral contraceptive,0,0,0,depressed,10,1,10
+343,40,32,4,medium,high,8.3,light,7,good,89.0,156.1,36.52,none,0,0,0,neutral,7,0,4
+344,30,33,6,light,high,5.5,moderate,9,fair,71.5,160.1,27.87,IUD,0,0,0,good,1,0,5
+345,36,28,6,medium,medium,5.0,light,9,fair,70.1,164.1,26.02,none,0,0,0,neutral,6,0,0
+346,43,129,5,heavy,high,4.6,active,9,excellent,74.5,159.9,29.13,none,1,0,0,anxious,2,1,101
+347,28,25,4,light,low,5.5,sedentary,7,good,67.4,172.6,22.6,oral contraceptive,0,0,0,good,2,0,0
+348,42,26,6,medium,medium,7.9,light,4,poor,46.4,159.9,18.17,oral contraceptive,0,0,0,good,6,0,0
+349,19,45,4,heavy,medium,6.4,moderate,2,fair,72.6,154.1,30.53,none,0,0,1,excellent,2,1,17
+350,44,27,3,heavy,medium,5.1,moderate,3,excellent,77.2,162.0,29.44,none,0,0,0,anxious,4,0,0
+351,19,32,6,heavy,medium,4.8,light,6,fair,63.8,179.4,19.81,none,0,0,0,good,7,0,4
+352,26,46,5,heavy,medium,5.7,light,11,poor,79.1,156.8,32.17,none,1,0,0,excellent,3,1,18
+353,30,35,6,heavy,low,8.7,moderate,6,good,55.2,168.4,19.48,none,0,0,0,neutral,6,0,7
+354,40,24,4,medium,medium,5.7,sedentary,11,good,55.0,163.0,20.69,none,0,0,0,anxious,6,0,0
+355,40,27,7,medium,low,8.9,moderate,2,good,52.3,152.1,22.58,none,0,0,0,good,1,0,0
+356,35,33,7,heavy,medium,6.4,moderate,2,poor,61.7,164.6,22.78,oral contraceptive,0,0,0,neutral,7,0,5
+357,47,34,4,medium,low,4.9,moderate,10,poor,83.1,171.1,28.4,implant,0,0,0,anxious,9,0,6
+358,44,29,3,heavy,low,8.5,moderate,3,good,82.3,165.4,30.07,oral contraceptive,0,0,0,good,9,0,1
+359,37,29,6,light,medium,6.3,sedentary,8,fair,62.2,176.2,20.05,oral contraceptive,0,0,0,neutral,8,0,1
+360,24,33,7,medium,medium,7.5,moderate,11,good,71.5,158.7,28.4,none,0,0,0,neutral,5,0,5
+361,19,29,3,medium,high,8.9,active,5,good,77.4,152.6,33.26,IUD,0,0,1,anxious,4,0,1
+362,48,28,4,medium,medium,4.3,light,8,fair,55.9,178.1,17.61,oral contraceptive,0,0,0,neutral,0,0,0
+363,45,26,3,light,medium,4.5,active,9,excellent,52.6,161.3,20.19,oral contraceptive,0,1,0,anxious,0,0,0
+364,24,44,4,medium,high,7.6,light,6,good,88.7,167.3,31.71,none,0,0,0,good,8,1,16
+365,33,26,6,light,medium,5.4,sedentary,2,good,72.8,173.8,24.11,none,0,0,0,good,3,0,0
+366,46,26,3,medium,low,4.9,light,5,poor,89.2,159.7,34.95,oral contraceptive,0,0,0,excellent,0,0,0
+367,15,24,6,medium,medium,4.2,active,11,poor,60.2,171.5,20.47,none,0,0,0,good,10,0,0
+368,19,25,3,medium,high,4.1,light,4,good,76.6,154.1,32.29,none,0,0,0,anxious,9,0,0
+369,18,34,4,medium,medium,7.9,active,11,fair,55.0,158.7,21.83,IUD,0,1,0,good,2,0,6
+370,30,35,4,medium,low,4.7,active,6,excellent,56.8,154.3,23.82,none,0,0,0,excellent,5,0,7
+371,38,26,3,heavy,low,6.3,light,11,fair,68.0,174.3,22.39,none,0,0,0,excellent,10,0,0
+372,30,25,4,heavy,low,7.0,sedentary,11,good,59.4,156.7,24.19,oral contraceptive,0,0,0,good,10,0,0
+373,16,31,5,heavy,medium,6.1,moderate,7,fair,52.5,171.5,17.86,none,0,0,0,good,7,0,3
+374,42,29,5,heavy,medium,4.1,light,3,good,56.8,178.3,17.88,IUD,0,0,0,good,9,0,1
+375,46,30,6,medium,low,7.9,moderate,8,poor,46.6,165.8,16.95,none,0,0,0,anxious,1,0,2
+376,41,53,5,heavy,high,4.1,light,4,fair,76.7,166.2,27.77,oral contraceptive,1,1,0,good,7,1,25
+377,34,29,5,heavy,high,7.8,light,2,fair,67.1,163.8,25.02,none,0,0,0,neutral,0,0,1
+378,38,26,7,heavy,medium,8.5,moderate,11,excellent,49.2,159.8,19.29,oral contraceptive,0,0,0,neutral,10,0,0
+379,26,30,7,light,high,6.2,light,4,poor,52.7,164.3,19.54,IUD,0,0,1,neutral,1,0,2
+380,49,26,7,heavy,low,6.7,light,10,excellent,49.6,168.1,17.56,IUD,1,0,0,good,7,0,0
+381,47,32,7,medium,medium,6.4,light,11,good,72.6,179.6,22.5,none,0,0,0,anxious,6,0,4
+382,47,26,4,heavy,medium,5.9,light,7,fair,49.2,178.1,15.52,none,0,0,0,neutral,4,0,0
+383,26,30,6,light,high,8.4,light,7,good,78.9,175.9,25.52,oral contraceptive,0,0,0,good,9,0,2
+384,17,35,6,medium,high,8.5,moderate,5,poor,45.9,176.7,14.71,none,0,0,0,excellent,1,0,7
+385,15,27,5,medium,low,5.7,light,9,excellent,56.2,164.0,20.89,none,0,0,0,excellent,8,0,0
+386,47,139,6,medium,high,7.1,light,6,good,85.1,169.7,29.54,none,1,0,0,neutral,4,1,111
+387,24,31,5,light,low,8.6,moderate,8,fair,77.3,176.9,24.73,oral contraceptive,0,0,0,neutral,7,0,3
+388,43,129,6,heavy,high,8.8,light,10,fair,48.3,161.8,18.45,oral contraceptive,0,0,0,good,3,1,101
+389,27,29,3,light,high,6.5,light,6,poor,82.0,178.9,25.62,none,0,0,1,good,8,0,1
+390,26,33,3,medium,low,6.3,active,6,excellent,67.2,162.5,25.45,IUD,0,0,0,anxious,9,0,5
+391,45,24,6,light,medium,5.4,moderate,5,poor,83.1,168.0,29.43,none,0,0,0,anxious,6,0,0
+392,16,30,4,medium,low,8.8,moderate,7,good,72.0,171.3,24.55,none,0,0,0,neutral,1,0,2
+393,49,24,5,medium,medium,4.7,moderate,3,fair,75.7,178.5,23.75,implant,0,0,0,neutral,2,0,0
+394,37,30,6,medium,medium,6.9,sedentary,4,excellent,89.7,157.3,36.24,IUD,0,0,0,anxious,1,0,2
+395,31,59,5,medium,medium,5.4,moderate,2,fair,55.5,172.4,18.66,oral contraceptive,0,0,1,neutral,4,1,31
+396,40,25,7,medium,high,5.4,light,3,good,73.1,165.6,26.64,none,0,0,0,good,1,0,0
+397,22,26,6,light,medium,6.0,light,3,good,65.7,158.1,26.3,implant,1,0,0,excellent,4,0,0
+398,43,35,4,light,medium,9.0,light,9,good,46.8,173.3,15.58,IUD,0,0,0,neutral,8,0,7
+399,40,56,7,light,high,4.3,sedentary,9,poor,45.7,166.6,16.45,none,1,0,0,good,1,1,28
+400,24,44,6,heavy,high,6.9,sedentary,3,fair,50.4,169.8,17.46,none,0,0,1,excellent,8,1,16
+401,40,29,3,medium,low,4.4,active,7,fair,74.2,159.7,29.1,none,0,0,0,anxious,6,0,1
+402,48,29,6,medium,high,4.8,light,6,good,70.5,164.4,26.08,implant,0,0,0,neutral,6,0,1
+403,21,26,3,light,low,6.2,light,4,fair,69.9,168.5,24.61,IUD,0,0,0,anxious,4,0,0
+404,18,28,3,medium,high,6.6,sedentary,6,good,46.4,162.1,17.66,implant,0,0,0,good,7,0,0
+405,25,33,6,light,low,5.3,sedentary,6,fair,66.1,156.0,27.19,IUD,0,0,0,anxious,6,0,5
+406,43,30,6,light,low,5.6,moderate,6,excellent,86.6,178.8,27.08,oral contraceptive,0,0,0,good,5,0,2
+407,39,26,3,medium,medium,4.4,light,4,excellent,62.9,165.3,23.0,none,0,0,0,neutral,1,0,0
+408,35,54,5,medium,medium,5.5,light,4,good,73.1,172.0,24.71,none,1,0,0,good,5,1,26
+409,24,28,7,light,medium,8.8,sedentary,5,fair,80.1,162.3,30.39,none,1,0,0,excellent,1,0,0
+410,23,32,4,medium,low,8.7,moderate,8,fair,80.3,160.7,31.1,oral contraceptive,0,0,0,good,0,0,4
+411,38,34,6,heavy,medium,5.7,sedentary,3,poor,68.4,162.2,25.98,implant,0,1,0,neutral,8,0,6
+412,49,33,7,medium,high,6.9,sedentary,11,fair,83.6,162.3,31.75,implant,0,0,0,good,4,0,5
+413,49,24,7,medium,medium,8.5,light,5,good,62.6,166.3,22.63,none,0,0,0,neutral,9,0,0
+414,32,66,5,heavy,low,4.0,light,5,good,85.0,166.3,30.73,oral contraceptive,0,0,0,good,9,1,38
+415,46,28,7,heavy,medium,8.1,sedentary,2,excellent,55.8,164.9,20.52,oral contraceptive,0,0,0,excellent,3,0,0
+416,38,25,6,medium,low,8.7,moderate,11,fair,57.6,154.0,24.28,oral contraceptive,0,0,0,neutral,10,0,0
+417,37,36,7,medium,high,4.5,moderate,9,good,47.4,164.9,17.43,oral contraceptive,1,0,0,depressed,7,1,8
+418,46,31,6,light,high,4.8,moderate,2,good,80.8,155.1,33.6,none,0,0,0,good,4,0,3
+419,26,25,6,medium,medium,8.8,light,9,good,63.8,153.8,26.96,implant,0,0,1,neutral,6,0,0
+420,27,26,3,medium,medium,6.7,sedentary,8,fair,55.3,178.0,17.46,oral contraceptive,0,0,0,depressed,2,0,0
+421,37,69,5,light,high,4.1,light,10,good,55.4,168.1,19.6,IUD,0,0,0,neutral,7,1,41
+422,39,27,4,medium,medium,5.3,active,9,good,85.6,169.8,29.68,none,0,0,0,neutral,7,0,0
+423,49,24,3,light,high,6.2,moderate,6,good,82.5,162.1,31.42,none,1,0,0,good,2,0,0
+424,44,26,4,medium,medium,7.5,moderate,9,excellent,69.9,177.3,22.25,none,0,0,0,good,8,0,0
+425,31,36,6,medium,high,7.7,sedentary,11,fair,72.7,169.1,25.42,IUD,1,0,0,good,7,1,8
+426,34,27,3,medium,medium,9.0,light,4,poor,66.3,173.1,22.15,implant,0,0,1,good,0,0,0
+427,39,29,7,light,medium,5.4,sedentary,11,good,62.6,161.1,24.14,none,0,1,0,anxious,7,0,1
+428,36,27,7,light,high,6.7,moderate,8,good,86.2,178.8,26.96,IUD,0,0,0,good,10,0,0
+429,27,30,4,medium,medium,6.7,active,5,fair,50.7,174.6,16.61,oral contraceptive,0,0,0,excellent,3,0,2
+430,33,57,6,heavy,medium,6.0,active,6,good,63.8,175.6,20.7,none,1,0,0,anxious,5,1,29
+431,26,45,4,light,low,4.8,light,10,excellent,60.5,155.2,25.13,oral contraceptive,1,0,1,neutral,9,1,17
+432,33,31,5,medium,medium,8.9,light,8,excellent,67.4,158.1,26.96,IUD,0,0,0,anxious,8,0,3
+433,26,31,7,heavy,medium,8.3,active,5,fair,65.6,158.6,26.09,none,0,0,0,neutral,4,0,3
+434,23,34,3,light,low,6.5,moderate,7,excellent,68.4,158.1,27.34,none,0,0,0,excellent,6,0,6
+435,21,33,3,heavy,low,7.0,sedentary,11,good,51.3,175.7,16.62,oral contraceptive,1,0,0,neutral,0,0,5
+436,42,34,3,medium,medium,5.1,light,8,good,68.1,151.0,29.88,none,0,0,0,neutral,8,0,6
+437,28,27,7,medium,high,6.7,sedentary,11,good,55.9,152.3,24.11,implant,0,0,0,good,5,0,0
+438,45,29,6,medium,medium,7.5,light,10,good,53.3,158.2,21.29,oral contraceptive,0,0,0,good,10,0,1
+439,33,34,7,medium,low,6.6,light,5,good,47.9,156.0,19.69,none,0,1,0,good,3,0,6
+440,30,29,7,medium,medium,9.0,moderate,11,fair,79.3,157.0,32.2,none,0,0,0,neutral,5,0,1
+441,19,28,3,heavy,low,7.1,light,4,good,64.2,173.9,21.23,implant,0,0,0,good,4,0,0
+442,49,24,7,medium,medium,5.9,sedentary,9,good,73.2,166.9,26.28,oral contraceptive,1,0,0,neutral,2,0,0
+443,26,59,3,medium,low,7.9,light,2,fair,77.7,150.2,34.47,oral contraceptive,0,0,0,good,6,1,31
+444,39,25,6,heavy,low,4.9,moderate,10,excellent,75.6,162.9,28.48,none,0,0,0,good,2,0,0
+445,35,26,5,medium,low,5.9,moderate,2,good,66.2,162.2,25.14,IUD,1,0,0,excellent,1,0,0
+446,37,27,3,medium,medium,5.7,light,3,good,62.5,153.4,26.53,none,0,0,0,excellent,3,0,0
+447,30,34,4,medium,low,6.2,active,9,poor,61.9,170.3,21.35,oral contraceptive,1,0,0,good,6,0,6
+448,28,28,5,heavy,medium,7.9,active,10,good,73.8,171.1,25.22,implant,0,0,0,good,4,0,0
+449,45,26,6,medium,medium,6.4,sedentary,8,poor,67.3,171.6,22.84,none,0,0,0,good,8,0,0
+450,19,69,5,medium,medium,8.0,sedentary,4,poor,83.2,171.9,28.17,oral contraceptive,1,0,0,depressed,9,1,41
+451,49,29,3,heavy,medium,6.9,moderate,8,good,84.4,150.0,37.49,none,0,0,0,neutral,6,0,1
+452,37,45,6,medium,high,5.7,moderate,7,fair,52.7,178.6,16.51,oral contraceptive,0,0,0,neutral,8,1,17
+453,43,25,4,light,low,8.0,active,3,good,51.1,174.4,16.81,none,0,0,0,anxious,8,0,0
+454,25,31,3,medium,medium,5.2,active,4,poor,73.4,177.1,23.39,implant,0,0,0,anxious,1,0,3
+455,32,24,3,medium,low,5.1,moderate,11,fair,58.6,150.5,25.86,none,0,0,0,anxious,0,0,0
+456,26,34,6,medium,low,6.5,light,11,fair,45.8,178.0,14.46,oral contraceptive,0,0,0,excellent,10,0,6
+457,23,63,6,heavy,medium,5.3,sedentary,6,excellent,85.0,174.3,27.98,IUD,1,0,1,neutral,3,1,35
+458,24,36,5,medium,medium,4.0,sedentary,11,good,55.2,175.1,18.0,implant,0,0,0,anxious,3,1,8
+459,31,44,4,medium,high,7.2,light,5,good,86.8,152.8,37.19,oral contraceptive,0,0,0,anxious,1,1,16
+460,21,28,5,medium,medium,6.6,moderate,3,fair,77.3,172.2,26.07,oral contraceptive,0,0,0,neutral,2,0,0
+461,27,33,5,light,high,6.2,moderate,5,poor,79.3,178.8,24.81,none,0,0,0,excellent,2,0,5
+462,23,33,3,medium,low,8.8,moderate,9,excellent,54.1,170.4,18.63,none,0,0,0,depressed,4,0,5
+463,41,35,6,heavy,low,6.9,light,6,fair,55.5,167.1,19.89,oral contraceptive,1,0,0,good,0,0,7
+464,16,25,3,medium,low,8.3,moderate,6,fair,68.5,178.4,21.52,none,0,0,0,good,8,0,0
+465,19,33,4,light,low,4.7,sedentary,11,good,52.7,163.3,19.78,none,0,0,0,good,7,0,5
+466,43,28,5,light,medium,6.8,light,4,poor,58.7,168.0,20.82,none,0,0,0,good,7,0,0
+467,33,28,4,medium,medium,8.3,moderate,9,good,59.5,164.3,22.03,none,0,0,0,good,2,0,0
+468,22,24,6,heavy,low,6.9,moderate,7,good,52.2,178.0,16.47,oral contraceptive,0,0,0,good,1,0,0
+469,15,26,6,heavy,high,7.6,active,3,fair,54.2,152.3,23.39,none,0,1,1,depressed,0,0,0
+470,36,28,7,medium,high,5.9,light,3,poor,80.5,165.0,29.55,none,0,1,0,good,5,0,0
+471,31,138,4,heavy,low,4.5,light,10,fair,52.5,170.6,18.04,none,0,0,0,neutral,9,1,110
+472,21,44,3,medium,low,6.3,light,8,excellent,46.3,173.8,15.33,none,0,0,0,anxious,0,1,16
+473,39,29,4,medium,low,6.0,light,11,good,73.3,167.5,26.14,oral contraceptive,0,0,0,neutral,10,0,1
+474,18,24,5,medium,low,8.3,active,10,fair,88.9,177.3,28.3,oral contraceptive,0,0,0,good,4,0,0
+475,20,31,6,light,low,5.2,moderate,7,poor,59.9,178.3,18.85,oral contraceptive,0,0,0,neutral,8,0,3
+476,45,28,6,heavy,medium,8.8,active,6,good,50.3,151.9,21.81,IUD,0,0,0,excellent,10,0,0
+477,33,30,4,light,low,8.8,sedentary,2,good,70.7,162.1,26.9,none,0,1,0,excellent,8,0,2
+478,41,30,4,medium,medium,5.2,active,7,fair,85.8,150.7,37.77,none,0,0,0,neutral,3,0,2
+479,24,143,4,heavy,high,5.7,sedentary,7,fair,80.3,159.9,31.41,none,0,0,0,anxious,6,1,115
+480,40,34,5,medium,medium,8.5,active,4,fair,73.0,166.1,26.46,oral contraceptive,0,0,0,neutral,10,0,6
+481,33,31,5,heavy,high,8.8,light,4,good,59.2,177.3,18.82,oral contraceptive,0,0,0,excellent,6,0,3
+482,17,32,3,medium,low,6.2,light,4,excellent,69.4,175.4,22.55,none,0,1,0,good,3,0,4
+483,27,35,4,medium,medium,5.6,light,4,fair,49.1,153.8,20.75,none,0,0,1,excellent,4,0,7
+484,42,96,3,heavy,medium,6.6,active,8,good,75.6,152.8,32.36,oral contraceptive,1,0,0,neutral,10,1,68
+485,34,25,7,light,low,7.4,sedentary,11,fair,77.6,167.7,27.61,oral contraceptive,0,0,0,good,8,0,0
+486,42,29,5,heavy,low,5.4,light,3,fair,88.4,166.0,32.1,implant,0,0,0,anxious,6,0,1
+487,22,25,6,light,medium,7.7,active,11,fair,56.7,158.0,22.72,oral contraceptive,0,0,0,excellent,6,0,0
+488,15,33,7,heavy,medium,4.3,light,11,good,45.8,177.0,14.63,none,0,0,0,excellent,9,0,5
+489,17,29,6,light,medium,4.2,sedentary,3,good,69.6,177.8,22.0,none,0,0,0,good,6,0,1
+490,27,42,7,medium,medium,5.9,light,4,good,76.8,162.1,29.24,oral contraceptive,1,0,1,good,8,1,14
+491,42,26,3,heavy,medium,5.8,light,11,fair,80.6,176.7,25.8,oral contraceptive,0,0,0,neutral,4,0,0
+492,39,35,3,medium,low,5.6,active,8,fair,53.7,161.5,20.59,implant,0,0,0,anxious,5,0,7
+493,47,27,5,medium,medium,6.5,moderate,4,poor,56.8,172.1,19.17,implant,0,0,0,excellent,2,0,0
+494,20,29,6,heavy,low,5.6,light,8,good,68.1,164.3,25.22,oral contraceptive,1,0,0,good,0,0,1
+495,46,28,7,medium,low,5.0,active,10,fair,59.9,153.7,25.35,oral contraceptive,0,0,0,depressed,10,0,0
+496,35,73,4,heavy,high,5.5,light,11,good,83.7,177.8,26.47,oral contraceptive,0,0,0,neutral,1,1,45
+497,30,29,4,medium,medium,8.9,sedentary,5,fair,66.3,163.6,24.77,none,0,0,0,depressed,7,0,1
+498,35,25,5,light,medium,6.1,light,8,fair,81.0,172.0,27.36,oral contraceptive,0,0,0,good,0,0,0
+499,25,29,6,light,medium,6.2,light,10,good,71.1,161.0,27.44,none,1,0,0,good,9,0,1
+500,49,145,4,light,medium,6.9,sedentary,9,fair,79.8,150.6,35.2,implant,1,0,1,good,6,1,117
+501,33,32,5,light,low,8.9,active,9,poor,60.0,153.0,25.61,oral contraceptive,0,0,0,good,4,0,4
+502,34,48,5,medium,low,5.2,moderate,10,fair,82.4,164.9,30.31,IUD,1,0,1,neutral,5,1,20
+503,32,35,6,light,low,7.4,light,6,good,57.4,170.7,19.68,oral contraceptive,0,0,0,good,7,0,7
+504,28,144,4,light,high,7.6,moderate,6,good,69.6,160.0,27.16,oral contraceptive,1,0,1,neutral,3,1,116
+505,29,30,4,light,medium,7.0,moderate,4,fair,54.6,170.9,18.71,none,0,0,0,good,5,0,2
+506,45,24,4,heavy,medium,4.4,active,6,good,66.4,171.0,22.72,oral contraceptive,0,1,0,anxious,10,0,0
+507,15,31,3,medium,medium,7.4,active,9,fair,59.3,171.1,20.26,none,0,0,1,excellent,2,0,3
+508,17,56,4,medium,high,4.3,light,6,fair,57.0,164.8,20.99,none,0,0,0,good,6,1,28
+509,30,29,7,heavy,low,7.0,moderate,5,poor,88.5,177.4,28.11,oral contraceptive,0,0,1,neutral,1,0,1
+510,37,26,3,light,low,7.7,moderate,9,excellent,52.2,164.7,19.25,none,0,0,0,excellent,7,0,0
+511,25,28,3,heavy,medium,5.1,moderate,8,fair,80.4,163.5,30.08,IUD,0,0,0,good,6,0,0
+512,26,33,3,medium,high,8.2,sedentary,7,fair,89.3,156.0,36.7,none,0,0,0,good,7,0,5
+513,24,28,3,light,high,4.2,sedentary,6,fair,45.9,159.2,18.1,oral contraceptive,0,1,0,anxious,1,0,0
+514,46,24,5,medium,low,8.2,light,6,poor,76.5,151.3,33.41,none,0,1,0,neutral,2,0,0
+515,30,26,7,heavy,high,6.3,light,11,good,56.4,169.0,19.74,IUD,1,0,0,neutral,3,0,0
+516,22,26,6,medium,high,5.1,sedentary,3,poor,46.8,157.5,18.89,none,0,0,0,depressed,8,0,0
+517,26,24,4,heavy,low,4.7,moderate,5,poor,63.1,159.1,24.93,oral contraceptive,0,0,0,depressed,4,0,0
+518,38,30,3,light,medium,8.8,sedentary,9,good,87.1,173.1,29.06,none,0,1,0,neutral,5,0,2
+519,42,24,6,medium,medium,4.4,moderate,9,fair,45.5,159.8,17.83,none,1,1,0,neutral,0,0,0
+520,22,58,5,light,high,5.0,light,2,good,71.5,157.3,28.89,IUD,0,0,0,neutral,3,1,30
+521,42,28,6,light,low,5.7,active,3,good,67.6,155.1,28.1,none,0,0,0,good,3,0,0
+522,40,30,3,light,high,7.1,light,6,fair,84.3,173.2,28.09,oral contraceptive,0,0,0,depressed,9,0,2
+523,22,95,7,heavy,medium,6.7,sedentary,10,good,48.8,153.9,20.6,none,1,0,0,neutral,7,1,67
+524,42,24,6,light,medium,4.6,moderate,11,poor,75.7,163.6,28.27,none,0,0,0,good,7,0,0
+525,42,29,3,medium,medium,5.4,moderate,8,good,75.6,165.2,27.7,oral contraceptive,0,0,0,excellent,9,0,1
+526,41,24,3,medium,medium,5.2,active,11,fair,75.1,170.6,25.8,oral contraceptive,0,0,1,excellent,5,0,0
+527,31,39,4,heavy,high,5.1,light,6,fair,87.4,169.0,30.6,oral contraceptive,1,0,0,good,7,1,11
+528,23,31,4,heavy,high,6.1,light,2,good,82.0,174.3,27.0,oral contraceptive,0,0,0,good,8,0,3
+529,47,28,7,heavy,high,7.5,active,7,excellent,46.9,151.3,20.47,none,0,1,0,good,4,0,0
+530,34,28,4,heavy,low,5.1,sedentary,9,excellent,66.2,158.9,26.22,none,1,0,0,good,0,0,0
+531,27,33,7,heavy,medium,5.8,moderate,8,good,62.9,158.4,25.07,none,0,0,0,neutral,0,0,5
+532,42,34,5,heavy,low,6.0,light,3,fair,59.0,154.4,24.74,IUD,0,0,0,good,1,0,6
+533,43,31,5,medium,medium,8.9,sedentary,6,fair,65.3,158.7,25.94,IUD,0,0,0,good,1,0,3
+534,27,31,4,light,medium,8.8,light,5,fair,62.3,159.3,24.55,none,0,0,0,good,4,0,3
+535,49,64,5,medium,medium,8.0,light,10,good,64.5,165.7,23.49,none,0,0,1,anxious,6,1,36
+536,20,28,6,medium,medium,5.2,moderate,11,fair,89.1,169.9,30.85,none,0,0,1,good,6,0,0
+537,32,52,6,medium,high,4.3,active,2,excellent,49.0,161.4,18.8,implant,0,0,0,good,3,1,24
+538,19,134,6,medium,low,5.6,light,7,fair,86.5,171.6,29.38,IUD,0,0,0,neutral,3,1,106
+539,39,67,5,medium,medium,5.3,moderate,4,fair,66.6,160.1,25.99,none,1,0,0,good,10,1,39
+540,16,26,6,heavy,medium,6.5,sedentary,10,fair,73.1,158.7,29.01,none,0,0,0,good,9,0,0
+541,24,27,7,light,low,7.9,light,6,good,82.4,166.2,29.8,oral contraceptive,1,0,0,good,2,0,0
+542,44,24,3,heavy,low,8.3,sedentary,7,good,61.2,150.7,26.95,none,0,0,0,neutral,10,0,0
+543,19,30,4,medium,high,8.2,active,10,good,64.4,152.4,27.72,oral contraceptive,1,0,0,neutral,1,0,2
+544,47,38,7,heavy,high,5.8,moderate,10,fair,63.4,162.5,24.01,oral contraceptive,0,0,0,neutral,2,1,10
+545,15,26,6,heavy,high,7.4,moderate,9,good,61.9,178.3,19.46,none,0,0,0,good,7,0,0
+546,32,26,3,heavy,high,5.6,moderate,10,poor,86.6,171.6,29.41,none,0,0,1,neutral,0,0,0
+547,46,45,4,medium,low,4.3,moderate,5,excellent,82.3,152.6,35.32,IUD,1,0,1,good,3,1,17
+548,25,25,7,light,medium,7.5,active,7,good,49.9,175.4,16.22,oral contraceptive,0,0,0,good,6,0,0
+549,35,115,4,medium,medium,4.0,moderate,6,fair,49.9,172.0,16.86,none,0,0,0,good,4,1,87
+550,40,24,5,heavy,medium,6.0,active,6,good,64.3,168.3,22.68,oral contraceptive,0,0,0,neutral,1,0,0
+551,39,32,6,heavy,medium,5.6,light,5,good,49.4,174.6,16.22,oral contraceptive,0,1,0,excellent,0,0,4
+552,36,29,7,heavy,medium,7.5,sedentary,3,poor,72.9,162.1,27.72,implant,0,0,0,neutral,5,0,1
+553,41,32,7,light,medium,7.8,light,7,excellent,51.5,156.6,20.97,none,0,0,0,anxious,4,0,4
+554,27,29,3,medium,medium,5.5,sedentary,10,fair,68.5,165.4,25.05,none,0,0,0,good,2,0,1
+555,47,25,3,medium,low,8.1,moderate,2,fair,45.3,166.5,16.36,oral contraceptive,0,0,0,good,10,0,0
+556,48,24,3,light,medium,5.5,light,8,poor,59.2,166.1,21.46,oral contraceptive,0,0,0,good,10,0,0
+557,49,31,4,light,medium,6.2,moderate,7,fair,75.5,167.0,27.08,none,0,0,1,good,10,0,3
+558,15,26,6,light,medium,7.6,sedentary,4,good,66.8,178.5,20.97,none,0,1,0,excellent,8,0,0
+559,35,24,4,heavy,low,7.5,sedentary,2,fair,89.0,177.1,28.39,implant,0,0,0,depressed,2,0,0
+560,20,31,6,medium,medium,8.9,light,5,good,84.3,176.3,27.14,none,0,0,1,good,1,0,3
+561,42,52,7,medium,low,5.1,active,10,fair,61.2,174.0,20.19,none,0,0,0,neutral,4,1,24
+562,31,32,4,heavy,medium,7.3,light,3,excellent,47.0,178.3,14.8,IUD,0,0,0,excellent,8,0,4
+563,19,47,4,medium,high,7.0,light,4,good,83.1,153.0,35.5,none,0,0,0,anxious,7,1,19
+564,45,32,4,light,medium,8.6,moderate,3,good,86.0,158.0,34.47,none,0,0,0,anxious,5,0,4
+565,19,142,5,medium,low,4.8,moderate,3,poor,81.9,164.9,30.15,oral contraceptive,0,0,0,neutral,2,1,114
+566,17,29,6,light,medium,7.8,light,11,fair,50.8,175.4,16.5,none,0,0,0,anxious,5,0,1
+567,37,100,6,light,medium,6.8,light,9,fair,89.9,165.2,32.96,none,0,0,0,good,4,1,72
+568,24,49,4,light,high,5.4,sedentary,4,good,56.6,172.4,19.05,implant,0,0,0,good,0,1,21
+569,24,52,5,medium,medium,6.4,active,8,excellent,77.6,154.2,32.64,oral contraceptive,0,0,0,neutral,4,1,24
+570,33,25,4,light,medium,5.7,sedentary,9,poor,85.9,157.6,34.58,oral contraceptive,0,0,0,neutral,6,0,0
+571,31,31,6,medium,medium,6.9,light,4,poor,55.6,172.0,18.81,none,0,0,0,anxious,8,0,3
+572,35,27,7,heavy,low,8.4,sedentary,3,excellent,85.9,154.9,35.77,none,0,0,0,good,0,0,0
+573,28,125,5,medium,low,6.8,sedentary,9,fair,58.9,160.5,22.86,oral contraceptive,0,0,1,good,2,1,97
+574,23,105,5,heavy,medium,7.2,moderate,4,good,88.9,157.9,35.65,oral contraceptive,1,0,0,good,7,1,77
+575,15,32,4,medium,medium,6.6,sedentary,8,good,57.7,160.5,22.38,none,0,0,0,anxious,5,0,4
+576,27,32,7,medium,medium,4.3,sedentary,2,good,87.9,171.2,29.97,IUD,0,0,0,anxious,4,0,4
+577,18,27,6,heavy,low,5.2,light,7,poor,47.4,161.0,18.28,none,0,1,0,neutral,9,0,0
+578,15,31,3,light,low,6.5,sedentary,10,poor,76.9,166.7,27.69,none,0,0,1,neutral,1,0,3
+579,46,29,6,light,medium,5.6,sedentary,4,good,68.9,153.0,29.45,oral contraceptive,0,0,0,neutral,2,0,1
+580,48,24,6,medium,low,4.9,moderate,8,excellent,66.5,174.2,21.93,none,0,0,0,neutral,1,0,0
+581,42,30,7,medium,medium,6.5,moderate,7,fair,55.1,161.1,21.21,oral contraceptive,0,1,0,good,0,0,2
+582,45,24,5,heavy,low,5.6,active,9,fair,76.8,169.5,26.73,oral contraceptive,0,0,0,neutral,6,0,0
+583,22,26,6,heavy,medium,5.3,active,4,good,53.6,171.8,18.16,none,0,0,0,good,2,0,0
+584,40,31,5,medium,high,6.3,moderate,4,excellent,69.9,156.3,28.61,oral contraceptive,0,0,1,neutral,6,0,3
+585,48,32,7,medium,low,4.7,sedentary,5,good,56.4,176.5,18.1,none,0,0,0,excellent,6,0,4
+586,17,36,7,medium,medium,8.6,moderate,4,excellent,88.0,168.5,31.0,none,0,0,1,neutral,7,1,8
+587,26,65,4,heavy,low,8.3,moderate,10,poor,46.3,162.9,17.45,oral contraceptive,1,1,0,anxious,0,1,37
+588,15,24,3,heavy,medium,7.5,moderate,5,poor,54.0,155.5,22.34,none,0,0,0,neutral,4,0,0
+589,19,29,7,heavy,medium,4.5,light,7,good,55.9,178.3,17.59,oral contraceptive,0,0,0,neutral,9,0,1
+590,44,29,7,medium,medium,7.9,sedentary,9,good,63.6,172.7,21.35,none,0,1,1,neutral,8,0,1
+591,44,27,5,heavy,medium,8.0,moderate,9,fair,55.5,156.2,22.72,implant,0,0,0,neutral,10,0,0
+592,31,30,7,medium,high,7.8,moderate,6,fair,67.1,160.1,26.17,oral contraceptive,1,0,0,good,6,0,2
+593,37,60,6,light,low,4.6,active,6,good,84.3,174.3,27.74,implant,0,0,0,neutral,0,1,32
+594,29,35,4,heavy,low,7.2,sedentary,7,poor,77.0,170.9,26.39,none,1,0,0,good,7,0,7
+595,35,50,4,light,high,8.2,sedentary,11,fair,71.1,173.0,23.76,implant,0,0,0,neutral,2,1,22
+596,28,33,6,heavy,medium,6.9,sedentary,8,good,49.0,163.2,18.39,none,1,0,0,neutral,3,0,5
+597,16,26,7,light,high,7.2,moderate,11,good,76.2,171.5,25.92,none,0,0,0,neutral,3,0,0
+598,25,30,3,heavy,medium,6.3,sedentary,8,good,52.5,161.6,20.1,oral contraceptive,0,0,0,neutral,9,0,2
+599,48,27,7,medium,high,6.6,sedentary,5,fair,80.4,156.3,32.89,implant,0,0,0,neutral,7,0,0
+600,48,27,4,medium,medium,4.2,active,7,good,56.3,169.0,19.7,none,0,0,0,anxious,0,0,0
+601,32,35,3,light,medium,7.2,sedentary,8,good,63.8,179.3,19.84,none,0,1,0,good,7,0,7
+602,44,24,5,medium,high,4.4,moderate,6,good,60.8,159.3,23.94,IUD,0,0,1,depressed,8,0,0
+603,29,24,5,medium,medium,6.2,light,6,good,83.6,163.8,31.16,oral contraceptive,0,1,0,neutral,8,0,0
+604,41,136,7,medium,low,5.5,moderate,3,fair,50.7,170.2,17.5,oral contraceptive,0,0,1,good,4,1,108
+605,48,25,7,light,low,6.7,moderate,8,poor,70.5,166.2,25.49,none,0,0,0,anxious,3,0,0
+606,47,24,3,light,low,4.7,active,7,poor,51.4,175.3,16.72,oral contraceptive,0,0,0,neutral,3,0,0
+607,38,31,3,light,low,7.5,active,2,fair,76.7,172.9,25.68,none,0,0,0,depressed,8,0,3
+608,29,29,7,medium,medium,8.0,sedentary,5,good,85.7,151.7,37.23,implant,0,0,0,neutral,7,0,1
+609,44,29,4,heavy,medium,4.8,sedentary,4,good,64.6,180.0,19.94,oral contraceptive,0,0,0,excellent,9,0,1
+610,31,33,5,heavy,medium,4.5,light,4,good,67.0,172.6,22.49,oral contraceptive,0,0,0,good,9,0,5
+611,19,110,3,light,medium,4.7,moderate,8,good,86.7,175.9,28.03,none,0,0,0,neutral,6,1,82
+612,43,27,4,medium,medium,8.4,active,11,fair,68.4,169.5,23.81,IUD,0,0,0,anxious,2,0,0
+613,18,34,7,heavy,low,6.6,light,5,fair,66.9,175.7,21.69,oral contraceptive,0,0,0,neutral,3,0,6
+614,24,29,6,medium,low,6.3,moderate,9,fair,71.0,153.4,30.19,IUD,0,0,0,good,8,0,1
+615,31,68,3,medium,low,4.5,sedentary,10,fair,76.0,160.4,29.53,none,0,0,0,neutral,7,1,40
+616,24,30,6,medium,medium,7.2,moderate,4,poor,49.8,176.3,16.03,IUD,0,0,0,neutral,0,0,2
+617,31,31,4,light,low,8.3,active,6,good,81.9,156.0,33.65,oral contraceptive,0,0,0,excellent,2,0,3
+618,34,32,5,light,low,8.1,light,5,excellent,64.6,152.3,27.83,none,0,0,0,good,9,0,4
+619,38,58,4,light,medium,7.1,light,11,fair,48.3,173.6,16.0,none,1,0,0,good,1,1,30
+620,19,37,5,medium,high,4.4,sedentary,7,poor,80.4,175.1,26.23,none,0,0,0,good,1,1,9
+621,48,26,4,light,low,4.6,moderate,11,good,62.0,154.9,25.83,none,0,0,0,good,7,0,0
+622,20,27,3,light,medium,4.2,light,5,fair,49.5,175.6,16.05,none,0,0,0,excellent,5,0,0
+623,16,27,3,medium,medium,5.3,sedentary,9,good,73.5,170.6,25.26,none,0,0,0,anxious,5,0,0
+624,27,29,6,light,high,4.7,light,4,good,84.6,165.6,30.85,oral contraceptive,0,0,0,good,3,0,1
+625,25,39,4,light,high,5.3,light,6,excellent,84.9,174.9,27.77,oral contraceptive,1,0,0,good,0,1,11
+626,37,33,4,heavy,low,5.9,light,2,fair,88.1,162.6,33.33,oral contraceptive,0,0,0,good,10,0,5
+627,30,29,6,light,low,8.7,moderate,7,good,84.0,155.8,34.62,none,0,0,0,good,6,0,1
+628,45,70,7,medium,high,7.1,sedentary,6,good,45.1,158.5,17.94,IUD,1,0,1,neutral,7,1,42
+629,25,24,4,medium,medium,8.2,moderate,9,good,62.1,165.2,22.77,implant,0,0,0,good,1,0,0
+630,30,34,4,medium,medium,7.6,moderate,10,fair,81.8,165.9,29.72,none,0,0,1,neutral,1,0,6
+631,22,33,4,medium,medium,4.6,light,9,fair,61.5,174.2,20.27,none,0,0,0,neutral,0,0,5
+632,18,33,7,light,medium,7.7,sedentary,9,good,72.1,173.7,23.88,oral contraceptive,0,0,0,good,3,0,5
+633,18,28,3,heavy,high,5.4,moderate,4,good,72.3,167.4,25.78,oral contraceptive,0,0,0,neutral,5,0,0
+634,39,33,6,medium,high,7.2,active,5,good,61.4,173.4,20.42,oral contraceptive,1,0,0,neutral,4,0,5
+635,17,145,7,heavy,medium,5.7,sedentary,5,good,85.7,155.8,35.33,none,0,0,0,good,3,1,117
+636,46,33,5,medium,low,9.0,light,6,good,67.6,151.5,29.47,oral contraceptive,0,0,0,neutral,3,0,5
+637,17,24,5,heavy,high,5.3,sedentary,10,poor,65.9,176.2,21.23,none,0,0,0,anxious,9,0,0
+638,41,34,7,heavy,low,5.4,moderate,10,good,89.9,152.3,38.77,none,0,0,0,neutral,6,0,6
+639,43,25,7,heavy,low,8.7,sedentary,11,good,67.2,157.4,27.13,IUD,0,0,0,good,6,0,0
+640,46,26,3,medium,high,4.1,light,2,excellent,53.0,170.9,18.16,none,0,0,0,anxious,1,0,0
+641,33,26,5,medium,low,7.5,moderate,9,excellent,68.1,162.3,25.85,none,0,0,0,good,6,0,0
+642,35,35,6,heavy,low,7.6,moderate,2,poor,81.6,176.3,26.27,none,0,0,0,good,1,0,7
+643,19,31,4,heavy,low,8.2,light,3,good,80.0,158.9,31.65,none,0,0,0,good,3,0,3
+644,32,116,4,heavy,high,8.9,light,8,poor,80.5,150.4,35.6,oral contraceptive,0,0,1,neutral,0,1,88
+645,42,34,3,medium,medium,8.9,moderate,9,fair,76.9,159.0,30.4,oral contraceptive,0,0,0,anxious,4,0,6
+646,36,29,3,heavy,medium,4.3,sedentary,2,good,56.4,167.3,20.15,implant,0,0,1,good,0,0,1
+647,35,35,5,light,low,8.1,sedentary,4,poor,83.8,161.3,32.22,none,0,0,0,good,3,0,7
+648,20,55,6,medium,high,7.2,active,8,good,85.2,166.0,30.9,implant,1,1,0,neutral,8,1,27
+649,15,32,6,light,high,7.2,sedentary,10,poor,53.7,176.3,17.29,none,0,0,0,anxious,7,0,4
+650,19,40,7,medium,medium,4.6,moderate,9,fair,50.9,177.4,16.17,oral contraceptive,0,0,0,good,5,1,12
+651,26,28,3,heavy,medium,7.3,active,9,good,88.9,158.0,35.62,oral contraceptive,0,0,1,anxious,7,0,0
+652,40,33,4,light,low,8.9,light,10,good,84.1,163.9,31.31,IUD,0,0,0,good,4,0,5
+653,48,31,4,medium,high,8.6,light,11,excellent,85.2,166.5,30.74,oral contraceptive,0,0,0,neutral,6,0,3
+654,28,29,5,medium,medium,6.2,moderate,4,good,84.9,178.5,26.65,none,0,0,0,neutral,7,0,1
+655,40,57,4,light,high,4.2,active,9,good,69.4,180.0,21.42,IUD,0,0,0,good,6,1,29
+656,41,28,6,medium,medium,5.8,active,2,fair,74.1,157.1,30.03,oral contraceptive,0,0,1,neutral,3,0,0
+657,23,28,6,medium,high,8.1,moderate,9,poor,69.5,171.8,23.56,oral contraceptive,0,0,0,anxious,4,0,0
+658,40,26,3,light,high,7.5,sedentary,8,poor,47.3,161.3,18.17,IUD,0,0,0,good,9,0,0
+659,36,45,5,heavy,medium,6.3,moderate,9,good,78.5,150.2,34.8,none,1,0,0,good,5,1,17
+660,44,28,4,heavy,high,4.3,light,2,good,67.7,150.3,30.0,oral contraceptive,0,0,0,good,10,0,0
+661,31,30,3,light,medium,6.1,light,7,fair,74.1,163.8,27.63,oral contraceptive,0,0,0,good,5,0,2
+662,40,25,7,light,low,6.3,sedentary,8,good,67.6,164.7,24.94,oral contraceptive,0,0,0,neutral,8,0,0
+663,15,32,7,medium,medium,8.6,sedentary,6,good,67.1,150.7,29.57,none,0,0,0,good,9,0,4
+664,22,56,4,medium,medium,7.2,moderate,6,poor,52.7,170.6,18.12,none,0,0,0,neutral,1,1,28
+665,49,25,4,medium,medium,5.6,light,8,fair,57.5,158.8,22.81,IUD,0,1,0,good,5,0,0
+666,29,29,4,light,low,6.6,light,4,good,52.1,166.8,18.74,none,1,0,0,depressed,2,0,1
+667,36,31,6,medium,medium,4.3,light,7,good,53.8,159.0,21.28,oral contraceptive,0,0,0,good,1,0,3
+668,28,30,4,heavy,medium,8.9,active,8,excellent,88.8,155.0,36.95,implant,0,0,0,excellent,5,0,2
+669,40,31,7,medium,medium,5.8,moderate,2,poor,51.9,162.2,19.72,none,0,0,0,excellent,3,0,3
+670,42,27,4,medium,medium,6.4,light,3,excellent,57.1,157.0,23.18,none,0,0,0,anxious,4,0,0
+671,37,26,5,heavy,medium,5.8,sedentary,5,fair,71.6,166.0,25.96,none,0,0,0,good,4,0,0
+672,28,30,7,medium,low,7.4,light,9,poor,72.5,156.0,29.79,oral contraceptive,0,0,0,excellent,2,0,2
+673,38,25,5,medium,medium,7.3,active,11,excellent,51.9,165.3,19.02,implant,0,0,0,anxious,3,0,0
+674,16,64,7,medium,low,7.6,moderate,7,fair,80.7,154.7,33.72,none,1,0,0,anxious,2,1,36
+675,40,30,3,heavy,low,5.3,light,2,good,80.3,170.1,27.76,oral contraceptive,0,0,0,anxious,6,0,2
+676,28,136,7,medium,high,5.6,moderate,11,fair,55.7,172.6,18.69,none,0,0,0,good,0,1,108
+677,21,68,7,heavy,high,4.6,light,6,good,58.0,153.3,24.67,oral contraceptive,0,0,0,good,5,1,40
+678,17,30,5,medium,medium,7.3,moderate,8,excellent,87.2,164.0,32.41,none,0,0,0,neutral,3,0,2
+679,37,36,5,medium,high,4.2,light,7,fair,82.2,152.1,35.5,oral contraceptive,0,0,0,good,0,1,8
+680,32,31,7,medium,high,7.0,sedentary,10,good,76.4,167.9,27.09,none,0,0,0,good,0,0,3
+681,49,30,7,medium,high,8.3,sedentary,9,fair,48.7,157.9,19.53,oral contraceptive,0,0,0,good,4,0,2
+682,29,25,6,heavy,low,8.5,light,5,good,63.8,165.8,23.21,none,0,0,0,depressed,4,0,0
+683,39,30,3,medium,high,6.2,active,6,fair,70.2,165.5,25.61,IUD,0,1,0,good,9,0,2
+684,42,26,3,medium,medium,6.3,light,8,fair,53.4,177.7,16.92,none,0,1,0,neutral,6,0,0
+685,24,146,4,light,medium,4.4,active,9,fair,65.2,166.5,23.52,none,1,0,0,good,3,1,118
+686,31,31,7,heavy,low,7.4,moderate,6,fair,72.0,167.5,25.68,IUD,0,0,0,neutral,8,0,3
+687,36,28,7,light,medium,8.1,sedentary,10,excellent,59.7,162.0,22.75,oral contraceptive,0,0,0,neutral,3,0,0
+688,40,30,7,heavy,low,5.2,sedentary,11,fair,80.1,178.5,25.16,none,0,0,0,good,6,0,2
+689,39,26,7,medium,low,6.1,sedentary,5,fair,82.8,173.3,27.57,implant,0,0,0,good,4,0,0
+690,31,24,3,light,medium,8.2,moderate,5,fair,59.6,158.6,23.69,oral contraceptive,0,0,0,neutral,4,0,0
+691,27,24,5,medium,high,8.4,sedentary,9,fair,82.7,175.3,26.92,none,1,0,0,good,5,0,0
+692,34,68,6,medium,high,5.2,light,2,good,49.7,163.0,18.7,oral contraceptive,0,0,0,neutral,7,1,40
+693,39,34,5,medium,medium,6.8,light,9,excellent,82.7,174.9,27.05,IUD,0,0,0,neutral,4,0,6
+694,18,47,5,medium,high,5.0,moderate,6,fair,51.9,174.7,17.0,oral contraceptive,0,0,0,neutral,2,1,19
+695,24,32,3,light,high,4.5,sedentary,2,excellent,48.7,155.7,20.11,none,0,0,0,good,5,0,4
+696,17,25,6,heavy,high,8.6,light,5,good,73.9,171.0,25.26,none,0,0,1,good,1,0,0
+697,32,30,7,light,low,8.1,light,3,fair,66.2,158.7,26.29,oral contraceptive,0,0,0,neutral,7,0,2
+698,36,34,3,medium,medium,7.8,light,5,good,85.9,158.9,33.99,oral contraceptive,1,0,1,excellent,7,0,6
+699,48,24,3,medium,high,4.2,moderate,9,good,61.3,158.9,24.3,IUD,0,0,0,depressed,2,0,0
+700,22,26,6,medium,medium,8.2,sedentary,6,good,57.9,171.8,19.63,none,0,0,1,depressed,7,0,0
+701,33,29,4,medium,medium,6.2,moderate,2,excellent,67.5,156.9,27.43,oral contraceptive,0,0,0,excellent,8,0,1
+702,20,32,3,medium,medium,5.7,moderate,8,fair,65.5,150.0,29.11,none,0,0,0,excellent,4,0,4
+703,40,33,5,medium,medium,6.7,moderate,2,excellent,60.5,171.5,20.58,oral contraceptive,0,0,0,good,4,0,5
+704,48,66,5,medium,medium,4.5,moderate,10,good,76.2,155.1,31.67,implant,0,0,0,depressed,5,1,38
+705,20,27,7,light,low,7.8,light,4,good,79.2,153.1,33.77,none,0,0,0,good,6,0,0
+706,47,25,3,medium,medium,6.9,sedentary,4,good,83.4,157.1,33.77,none,0,0,0,good,2,0,0
+707,36,67,7,medium,high,4.9,moderate,7,fair,88.8,161.4,34.08,oral contraceptive,0,0,0,neutral,4,1,39
+708,35,33,3,light,high,4.9,light,11,excellent,57.0,164.3,21.12,oral contraceptive,0,0,0,good,0,0,5
+709,20,32,6,medium,low,4.9,moderate,7,good,77.2,151.3,33.72,none,1,0,0,good,10,0,4
+710,20,31,3,medium,high,4.3,light,7,poor,62.7,179.1,19.56,oral contraceptive,0,0,0,good,9,0,3
+711,18,33,4,medium,medium,6.9,active,2,fair,75.5,171.5,25.66,IUD,0,1,1,neutral,4,0,5
+712,44,34,5,medium,medium,8.2,moderate,6,good,66.4,159.7,26.04,oral contraceptive,0,0,0,good,3,0,6
+713,25,55,6,medium,high,4.1,sedentary,7,poor,89.7,159.6,35.24,oral contraceptive,1,0,1,neutral,0,1,27
+714,44,97,5,medium,high,4.2,light,9,poor,77.8,163.5,29.12,none,1,0,0,anxious,6,1,69
+715,45,35,7,light,high,6.9,moderate,2,good,87.9,168.8,30.84,implant,0,0,0,neutral,0,0,7
+716,38,113,6,medium,medium,8.1,moderate,6,fair,82.6,154.4,34.64,none,0,1,0,neutral,7,1,85
+717,23,62,4,medium,high,5.6,light,4,fair,85.6,155.7,35.34,none,0,0,0,excellent,9,1,34
+718,17,28,5,medium,low,5.7,active,3,fair,81.6,175.8,26.42,none,0,0,0,good,1,0,0
+719,45,28,3,medium,medium,7.0,light,9,fair,65.7,157.7,26.41,none,0,0,0,excellent,9,0,0
+720,38,26,3,medium,medium,5.4,light,8,good,56.3,161.4,21.62,oral contraceptive,0,0,0,neutral,4,0,0
+721,45,51,3,medium,medium,4.1,active,11,good,61.7,176.1,19.88,IUD,0,0,1,good,5,1,23
+722,20,32,6,medium,low,7.7,active,8,fair,45.9,169.9,15.91,none,0,0,0,good,8,0,4
+723,16,33,4,medium,high,7.1,moderate,6,fair,68.6,160.3,26.7,none,0,0,0,excellent,6,0,5
+724,34,27,4,medium,low,6.9,active,10,good,67.7,170.5,23.29,IUD,0,1,0,good,5,0,0
+725,42,68,4,medium,low,7.7,sedentary,6,poor,68.6,150.6,30.27,IUD,0,0,0,neutral,4,1,40
+726,25,28,5,light,medium,7.4,active,3,poor,88.8,172.1,30.0,oral contraceptive,0,0,0,neutral,5,0,0
+727,18,30,6,light,medium,5.0,light,4,poor,86.0,164.6,31.74,IUD,0,0,0,excellent,10,0,2
+728,29,25,3,medium,high,5.8,sedentary,5,good,52.3,174.4,17.19,none,0,0,0,neutral,3,0,0
+729,20,50,5,heavy,medium,4.6,sedentary,6,good,61.6,178.6,19.3,none,0,0,0,good,0,1,22
+730,44,59,4,medium,low,4.6,light,4,good,64.1,177.8,20.28,IUD,1,0,0,neutral,8,1,31
+731,16,31,3,light,high,7.4,light,8,good,61.2,177.3,19.48,none,0,0,0,anxious,10,0,3
+732,29,24,6,heavy,medium,8.3,light,6,good,80.9,165.4,29.6,oral contraceptive,0,0,0,good,4,0,0
+733,25,35,7,heavy,low,8.8,sedentary,6,good,68.6,160.8,26.52,none,0,0,0,good,7,0,7
+734,22,24,4,heavy,medium,7.1,light,7,good,70.7,164.0,26.32,oral contraceptive,0,1,0,neutral,6,0,0
+735,40,24,4,medium,medium,4.9,moderate,8,poor,83.4,170.7,28.62,IUD,0,0,0,anxious,7,0,0
+736,19,35,4,heavy,medium,4.5,light,11,good,81.3,176.5,26.08,oral contraceptive,0,0,1,neutral,0,0,7
+737,20,27,4,light,medium,8.1,light,11,good,50.9,156.2,20.88,none,1,0,0,anxious,8,0,0
+738,40,27,3,light,high,6.9,moderate,9,good,77.1,177.5,24.47,oral contraceptive,0,0,0,neutral,0,0,0
+739,18,36,6,light,high,7.1,active,10,fair,64.6,174.5,21.22,IUD,1,0,0,neutral,2,1,8
+740,33,33,5,medium,medium,7.9,moderate,5,fair,58.3,179.4,18.11,none,1,0,0,neutral,7,0,5
+741,34,26,3,light,low,7.5,light,6,good,47.3,176.4,15.18,none,0,0,0,good,10,0,0
+742,47,60,6,medium,high,8.2,moderate,6,good,66.9,158.4,26.67,oral contraceptive,1,0,0,neutral,0,1,32
+743,34,33,5,medium,medium,4.3,sedentary,9,excellent,61.0,153.2,26.0,oral contraceptive,0,0,0,neutral,0,0,5
+744,26,35,4,medium,medium,7.7,sedentary,10,fair,56.3,153.4,23.94,none,0,0,0,neutral,5,0,7
+745,15,32,6,heavy,medium,8.3,light,8,good,76.3,158.7,30.27,none,0,0,0,good,4,0,4
+746,40,47,4,light,high,5.4,moderate,6,good,79.6,168.4,28.07,none,1,0,0,excellent,10,1,19
+747,28,31,6,medium,medium,7.2,sedentary,4,excellent,56.0,174.1,18.47,none,1,0,0,neutral,5,0,3
+748,25,103,7,heavy,low,5.6,sedentary,2,good,47.2,177.0,15.08,none,0,0,0,neutral,2,1,75
+749,27,25,4,light,medium,8.8,sedentary,10,good,83.2,168.7,29.23,none,0,0,1,depressed,9,0,0
+750,17,24,4,medium,high,4.2,active,6,good,45.4,150.2,20.15,none,0,0,0,good,9,0,0
+751,47,26,4,heavy,low,6.9,moderate,10,good,87.2,155.6,36.01,oral contraceptive,0,0,0,excellent,5,0,0
+752,20,30,3,heavy,high,4.8,light,11,excellent,73.2,153.0,31.29,oral contraceptive,0,0,0,excellent,1,0,2
+753,24,24,5,heavy,medium,7.6,moderate,5,poor,59.5,160.9,22.98,oral contraceptive,0,0,0,neutral,7,0,0
+754,19,34,4,medium,medium,4.9,light,6,poor,56.1,165.0,20.59,none,0,0,0,excellent,5,0,6
+755,37,25,4,medium,low,5.2,moderate,5,excellent,45.4,151.3,19.83,none,0,0,0,anxious,3,0,0
+756,24,25,3,light,low,6.5,sedentary,3,good,55.6,160.5,21.59,none,1,0,0,good,3,0,0
+757,16,27,3,medium,high,8.6,active,2,good,51.2,155.4,21.21,none,0,0,0,anxious,10,0,0
+758,27,35,7,light,low,5.1,light,9,good,72.5,169.4,25.28,none,0,0,0,neutral,6,0,7
+759,16,26,6,medium,high,4.7,moderate,5,poor,52.5,163.9,19.53,none,0,0,0,anxious,2,0,0
+760,34,94,4,heavy,medium,7.8,sedentary,6,good,68.8,164.9,25.31,none,1,0,0,good,10,1,66
+761,15,26,6,medium,low,6.5,light,7,good,71.6,162.8,26.99,none,1,1,0,neutral,2,0,0
+762,23,34,3,medium,low,8.6,light,9,fair,58.4,178.7,18.3,none,0,0,0,excellent,5,0,6
+763,31,30,3,medium,medium,4.7,light,9,fair,46.6,156.4,19.03,implant,0,0,0,good,8,0,2
+764,23,28,7,medium,high,7.2,sedentary,8,good,46.7,165.5,17.04,none,0,0,0,good,0,0,0
+765,25,27,5,heavy,medium,5.2,moderate,5,poor,46.2,172.1,15.6,implant,0,0,0,neutral,4,0,0
+766,29,35,3,medium,medium,4.8,sedentary,7,excellent,78.3,166.7,28.16,none,0,0,0,excellent,0,0,7
+767,38,26,4,medium,medium,7.4,moderate,5,fair,59.3,177.9,18.75,none,0,0,0,anxious,0,0,0
+768,49,35,7,medium,medium,7.0,moderate,8,good,80.8,161.3,31.05,IUD,0,0,0,excellent,2,0,7
+769,44,27,5,light,medium,7.8,moderate,2,excellent,64.4,163.9,23.98,none,0,0,1,good,2,0,0
+770,45,35,7,medium,high,5.5,moderate,6,good,65.4,152.7,28.06,none,0,0,0,excellent,3,0,7
+771,19,25,3,heavy,medium,6.2,moderate,11,fair,68.1,168.3,24.04,implant,0,1,0,neutral,2,0,0
+772,28,24,5,light,medium,6.0,light,11,good,77.1,158.6,30.63,oral contraceptive,0,0,0,excellent,5,0,0
+773,25,132,6,light,low,8.9,moderate,5,fair,57.3,154.8,23.91,none,1,1,0,anxious,3,1,104
+774,23,68,5,light,high,5.5,light,8,fair,50.5,166.3,18.24,none,0,0,0,neutral,7,1,40
+775,48,24,4,heavy,low,5.5,moderate,10,excellent,70.0,166.0,25.42,implant,1,0,0,anxious,0,0,0
+776,26,25,6,medium,low,5.8,moderate,6,good,59.7,152.3,25.75,IUD,0,0,1,good,7,0,0
+777,49,32,6,medium,medium,6.8,light,5,good,64.9,170.9,22.21,oral contraceptive,0,0,0,good,10,0,4
+778,49,28,4,medium,medium,5.3,light,10,fair,74.1,168.7,26.04,none,0,0,0,neutral,0,0,0
+779,15,32,6,heavy,medium,8.6,light,6,poor,67.2,155.7,27.75,none,0,1,0,anxious,10,0,4
+780,36,31,3,heavy,medium,5.3,moderate,10,poor,72.9,164.1,27.08,IUD,0,0,0,good,0,0,3
+781,43,73,5,heavy,high,8.5,active,9,good,69.5,171.6,23.6,none,0,0,0,anxious,6,1,45
+782,22,24,5,heavy,low,4.5,light,5,good,78.3,165.9,28.45,none,0,0,0,excellent,0,0,0
+783,25,33,4,medium,high,7.3,moderate,8,good,76.8,161.9,29.3,oral contraceptive,0,0,0,neutral,8,0,5
+784,28,28,3,medium,medium,8.5,active,6,good,69.0,159.7,27.08,none,0,1,0,good,7,0,0
+785,44,58,6,heavy,medium,4.8,sedentary,11,poor,75.6,168.3,26.67,oral contraceptive,0,0,0,excellent,0,1,30
+786,49,33,5,heavy,medium,8.8,sedentary,5,fair,84.3,178.2,26.56,IUD,0,0,0,good,1,0,5
+787,35,34,5,light,low,6.3,moderate,6,fair,64.5,170.2,22.26,IUD,0,0,0,anxious,1,0,6
+788,19,31,5,light,high,8.7,moderate,6,fair,63.6,152.2,27.43,none,0,0,0,depressed,1,0,3
+789,33,31,5,heavy,medium,7.4,active,10,poor,79.4,163.8,29.58,none,0,1,0,good,5,0,3
+790,28,110,7,medium,medium,5.5,light,10,excellent,71.2,176.7,22.8,none,1,0,0,anxious,3,1,82
+791,40,27,4,heavy,medium,4.9,sedentary,7,fair,48.2,152.8,20.63,none,0,0,0,neutral,7,0,0
+792,18,28,6,medium,high,5.5,light,5,excellent,85.1,179.7,26.38,oral contraceptive,0,0,1,neutral,0,0,0
+793,39,33,6,light,medium,4.5,sedentary,3,fair,46.4,178.5,14.56,none,1,0,0,excellent,9,0,5
+794,39,32,4,light,high,4.7,light,4,excellent,78.7,152.3,33.9,none,0,0,0,neutral,3,0,4
+795,32,50,3,light,medium,4.5,moderate,3,good,79.1,178.0,24.98,none,0,0,1,excellent,9,1,22
+796,22,35,4,light,low,6.1,sedentary,6,excellent,87.9,160.9,33.95,none,0,0,0,good,10,0,7
+797,28,41,5,medium,low,8.0,moderate,7,poor,47.4,175.3,15.43,oral contraceptive,0,1,0,neutral,4,1,13
+798,46,28,5,medium,medium,4.7,light,6,good,71.9,162.6,27.2,oral contraceptive,0,0,0,anxious,8,0,0
+799,47,25,4,heavy,low,4.7,moderate,3,excellent,64.3,163.2,24.12,oral contraceptive,0,0,0,neutral,4,0,0
+800,37,35,4,medium,low,7.2,sedentary,6,poor,59.9,169.0,20.96,oral contraceptive,0,1,0,anxious,10,0,7
+801,29,33,6,medium,high,5.0,light,10,poor,49.1,173.2,16.35,oral contraceptive,0,0,0,anxious,2,0,5
+802,47,48,6,medium,high,4.5,sedentary,5,fair,70.3,151.0,30.83,none,1,0,0,good,10,1,20
+803,39,24,7,medium,medium,4.8,active,11,excellent,66.6,167.8,23.64,none,0,0,0,good,3,0,0
+804,31,32,7,medium,low,8.6,moderate,3,good,49.7,155.6,20.53,oral contraceptive,0,0,0,neutral,9,0,4
+805,47,33,5,light,low,8.1,light,4,good,72.6,160.4,28.21,none,0,0,0,anxious,6,0,5
+806,16,35,7,light,low,5.8,sedentary,4,poor,78.2,160.4,30.38,none,0,1,0,depressed,0,0,7
+807,28,24,7,light,medium,7.3,active,10,poor,79.5,164.1,29.54,none,0,0,0,neutral,10,0,0
+808,20,72,3,light,high,6.7,light,5,good,85.7,160.0,33.48,implant,0,0,1,neutral,5,1,44
+809,20,30,4,medium,medium,7.4,sedentary,2,poor,63.4,153.2,27.02,none,0,0,1,neutral,7,0,2
+810,17,31,6,light,low,7.4,moderate,2,good,87.9,154.4,36.88,none,1,0,0,good,0,0,3
+811,21,25,7,heavy,medium,7.1,active,8,excellent,83.9,151.0,36.81,oral contraceptive,0,0,1,good,7,0,0
+812,22,27,6,heavy,medium,5.3,sedentary,8,fair,58.3,164.1,21.66,oral contraceptive,0,0,0,neutral,6,0,0
+813,29,25,7,heavy,medium,4.2,sedentary,3,good,52.2,178.6,16.35,none,0,0,1,anxious,0,0,0
+814,43,27,7,heavy,medium,6.3,active,10,poor,64.6,153.5,27.42,none,0,0,0,depressed,8,0,0
+815,47,29,5,medium,medium,8.5,sedentary,10,good,63.1,178.4,19.82,oral contraceptive,0,1,0,good,10,0,1
+816,44,29,3,medium,low,6.8,sedentary,6,fair,70.9,172.0,23.97,none,0,0,0,neutral,2,0,1
+817,41,35,4,light,low,8.2,moderate,4,good,71.3,169.1,24.91,none,0,0,0,anxious,1,0,7
+818,43,25,4,heavy,high,9.0,active,4,fair,78.7,169.4,27.46,implant,0,0,0,neutral,6,0,0
+819,47,34,5,heavy,low,4.8,light,4,good,67.9,174.8,22.24,oral contraceptive,0,0,0,good,10,0,6
+820,41,27,5,heavy,low,7.5,active,7,good,49.7,153.2,21.18,none,0,0,0,neutral,2,0,0
+821,47,27,4,medium,low,7.4,moderate,5,fair,83.6,165.1,30.66,none,0,0,0,neutral,0,0,0
+822,18,24,4,heavy,low,8.9,sedentary,9,good,58.9,170.9,20.18,oral contraceptive,0,0,0,neutral,9,0,0
+823,36,25,3,light,medium,8.9,active,6,fair,88.7,167.6,31.58,none,0,0,0,neutral,2,0,0
+824,16,26,7,light,high,7.4,light,2,good,50.3,175.0,16.43,none,0,0,0,anxious,5,0,0
+825,24,62,3,heavy,medium,5.2,light,10,fair,88.1,152.2,38.06,none,0,0,0,good,2,1,34
+826,19,28,4,medium,medium,8.0,moderate,2,good,49.1,170.7,16.84,none,0,1,0,good,4,0,0
+827,24,34,7,heavy,medium,4.5,light,7,poor,55.4,166.0,20.1,none,0,0,0,neutral,8,0,6
+828,47,31,4,light,medium,7.9,sedentary,2,fair,47.1,161.4,18.08,oral contraceptive,0,0,0,good,6,0,3
+829,27,70,3,heavy,high,8.6,sedentary,4,fair,76.7,160.2,29.89,oral contraceptive,1,0,1,depressed,1,1,42
+830,45,41,3,medium,high,5.9,light,11,good,83.3,168.6,29.28,none,0,0,0,good,0,1,13
+831,38,33,3,heavy,low,7.2,moderate,6,fair,64.5,176.7,20.66,none,1,0,0,good,6,0,5
+832,29,108,7,heavy,high,6.2,moderate,11,excellent,86.8,164.9,31.92,none,0,0,1,anxious,3,1,80
+833,43,30,6,heavy,medium,6.2,active,8,excellent,71.6,174.7,23.44,oral contraceptive,0,0,0,excellent,10,0,2
+834,22,55,6,medium,high,5.6,light,11,fair,73.4,162.1,27.93,none,0,0,0,anxious,6,1,27
+835,19,30,4,heavy,medium,7.8,light,9,good,83.0,153.1,35.44,none,0,0,0,neutral,5,0,2
+836,43,64,7,light,high,8.7,sedentary,10,poor,58.4,151.8,25.31,implant,0,0,0,excellent,6,1,36
+837,18,25,5,light,high,8.7,sedentary,7,fair,60.9,151.5,26.54,none,0,0,0,anxious,3,0,0
+838,26,32,6,medium,low,4.9,light,10,good,85.8,161.4,32.92,implant,0,0,0,excellent,2,0,4
+839,16,26,7,heavy,medium,8.4,moderate,9,good,85.5,160.1,33.37,none,0,0,0,neutral,4,0,0
+840,41,29,7,medium,high,7.7,active,10,good,88.9,171.5,30.23,none,0,0,1,excellent,2,0,1
+841,45,27,6,heavy,high,5.3,active,11,fair,85.6,172.3,28.83,none,0,0,0,excellent,2,0,0
+842,40,24,7,medium,low,4.3,sedentary,5,fair,50.7,151.5,22.1,oral contraceptive,0,0,0,anxious,3,0,0
+843,41,32,7,light,medium,5.3,active,10,poor,82.1,156.6,33.45,none,0,0,0,neutral,7,0,4
+844,19,34,6,heavy,medium,8.6,light,8,good,63.4,158.2,25.34,none,0,0,0,good,1,0,6
+845,34,29,3,light,low,7.2,sedentary,6,good,89.6,166.4,32.34,none,0,0,0,neutral,3,0,1
+846,25,31,4,heavy,medium,7.6,active,6,good,66.3,154.3,27.81,implant,0,1,0,neutral,10,0,3
+847,24,25,5,medium,low,5.3,moderate,2,fair,69.9,154.0,29.48,none,1,0,0,anxious,2,0,0
+848,20,30,4,medium,high,7.6,sedentary,3,fair,68.8,178.3,21.65,oral contraceptive,1,0,0,good,6,0,2
+849,22,29,3,medium,medium,4.1,light,11,fair,59.5,174.1,19.62,oral contraceptive,0,0,0,anxious,1,0,1
+850,37,25,3,light,high,5.9,light,4,poor,48.4,155.4,20.03,oral contraceptive,0,1,0,neutral,0,0,0
+851,40,125,7,medium,low,7.1,moderate,9,fair,85.3,162.2,32.43,oral contraceptive,0,0,0,neutral,9,1,97
+852,26,27,4,light,medium,4.7,light,7,good,81.1,160.7,31.42,none,0,0,0,depressed,0,0,0
+853,40,26,3,light,low,8.1,active,11,excellent,51.3,173.7,16.99,none,0,0,0,good,5,0,0
+854,27,31,4,light,low,5.2,sedentary,6,good,80.0,165.3,29.26,none,0,0,0,good,2,0,3
+855,32,30,3,medium,low,7.3,light,2,good,73.2,153.8,30.92,none,0,0,0,good,6,0,2
+856,39,61,5,heavy,low,6.0,light,10,poor,63.4,172.2,21.39,none,1,0,0,good,7,1,33
+857,47,32,3,medium,medium,7.0,light,4,excellent,56.4,161.9,21.53,none,0,0,1,good,4,0,4
+858,26,28,4,heavy,low,4.5,light,4,poor,83.7,157.9,33.57,implant,0,0,0,neutral,4,0,0
+859,18,25,7,medium,medium,4.1,moderate,3,excellent,76.5,161.3,29.42,implant,0,0,0,good,1,0,0
+860,19,26,4,medium,medium,8.5,active,5,good,69.6,164.9,25.6,none,1,0,0,good,7,0,0
+861,22,69,6,medium,high,5.3,active,3,fair,72.4,160.3,28.19,none,0,0,1,good,9,1,41
+862,42,25,4,medium,high,8.1,moderate,10,excellent,49.1,157.3,19.85,none,0,0,0,good,0,0,0
+863,45,29,5,medium,medium,9.0,active,11,poor,66.3,162.0,25.29,none,0,0,1,good,9,0,1
+864,23,55,5,light,medium,5.1,moderate,8,good,53.7,150.6,23.69,none,0,1,1,neutral,8,1,27
+865,43,25,5,heavy,low,5.3,moderate,9,good,54.4,173.2,18.13,implant,0,0,0,excellent,0,0,0
+866,28,32,3,heavy,high,7.3,light,4,fair,74.8,155.1,31.07,none,0,0,1,depressed,0,0,4
+867,36,27,5,light,low,8.8,light,7,fair,86.0,151.3,37.56,none,0,0,0,good,0,0,0
+868,25,32,4,heavy,low,8.6,light,11,good,63.2,169.6,21.96,none,0,0,0,anxious,6,0,4
+869,37,28,7,light,low,6.5,light,7,good,54.3,173.2,18.11,implant,0,0,0,excellent,3,0,0
+870,15,35,5,light,medium,8.0,light,2,poor,74.2,174.4,24.39,none,0,0,0,neutral,6,0,7
+871,35,74,4,light,low,4.7,active,7,excellent,84.2,164.8,31.0,implant,0,0,0,neutral,4,1,46
+872,40,40,3,heavy,high,8.9,light,4,fair,78.7,156.2,32.26,oral contraceptive,0,0,0,anxious,6,1,12
+873,37,25,3,heavy,low,8.8,sedentary,4,fair,84.1,172.1,28.39,none,0,0,1,neutral,9,0,0
+874,15,29,7,heavy,medium,4.8,light,4,fair,69.1,171.0,23.65,none,0,0,0,depressed,6,0,1
+875,29,65,7,light,low,5.5,sedentary,11,poor,78.8,157.4,31.83,none,1,0,0,neutral,3,1,37
+876,35,73,4,medium,low,4.5,sedentary,11,poor,51.3,177.1,16.36,none,0,1,1,neutral,1,1,45
+877,23,26,7,medium,high,5.4,sedentary,9,excellent,60.7,153.1,25.87,none,0,0,1,anxious,7,0,0
+878,23,65,7,light,low,8.1,light,6,fair,62.5,179.5,19.41,IUD,0,1,1,neutral,1,1,37
+879,24,28,3,medium,high,5.9,light,5,poor,68.0,175.8,22.0,none,0,0,0,neutral,8,0,0
+880,40,142,4,light,medium,4.4,moderate,10,poor,86.8,170.6,29.81,none,0,1,1,good,4,1,114
+881,49,46,7,light,low,5.7,moderate,10,good,84.3,178.2,26.57,oral contraceptive,0,0,0,anxious,8,1,18
+882,39,30,4,medium,high,8.9,light,2,excellent,51.1,171.7,17.32,none,0,0,0,good,8,0,2
+883,40,28,5,medium,low,7.1,light,3,fair,52.8,155.7,21.77,oral contraceptive,0,0,0,neutral,7,0,0
+884,25,25,3,light,high,6.1,light,9,poor,61.1,163.3,22.92,none,0,0,0,excellent,7,0,0
+885,16,28,3,light,low,4.8,moderate,6,fair,58.1,152.1,25.09,none,0,0,0,good,3,0,0
+886,21,39,3,light,high,8.9,sedentary,8,poor,72.7,161.7,27.79,none,0,0,0,neutral,3,1,11
+887,32,24,6,light,low,8.1,sedentary,2,poor,85.6,172.2,28.86,none,0,0,0,neutral,1,0,0
+888,41,136,4,light,medium,5.4,moderate,11,fair,88.3,161.6,33.82,implant,0,0,0,good,3,1,108
+889,48,40,5,medium,high,4.4,light,6,fair,74.4,159.9,29.1,none,0,0,0,good,3,1,12
+890,41,27,7,medium,high,4.3,sedentary,4,good,82.7,167.9,29.36,none,1,0,0,good,5,0,0
+891,31,25,5,medium,high,4.6,sedentary,11,fair,68.6,176.2,22.12,none,0,0,0,neutral,2,0,0
+892,38,35,4,heavy,high,6.9,active,3,excellent,54.4,151.4,23.71,oral contraceptive,0,0,0,good,1,0,7
+893,39,30,3,medium,high,8.6,active,3,excellent,68.6,161.6,26.28,IUD,0,0,0,neutral,7,0,2
+894,21,28,6,light,low,6.5,moderate,10,good,70.0,154.7,29.22,none,0,0,0,neutral,1,0,0
+895,20,30,4,light,low,8.2,light,5,fair,78.4,170.9,26.86,none,0,0,1,depressed,7,0,2
+896,38,32,4,heavy,low,6.2,light,5,fair,54.9,153.2,23.4,implant,0,0,0,excellent,6,0,4
+897,47,27,7,light,medium,7.5,active,8,fair,61.6,169.9,21.32,oral contraceptive,0,0,0,excellent,2,0,0
+898,43,28,5,light,medium,7.7,active,11,good,61.4,158.6,24.41,oral contraceptive,0,0,0,neutral,5,0,0
+899,36,32,5,light,medium,4.9,sedentary,11,good,88.2,156.0,36.25,none,0,0,0,neutral,5,0,4
+900,40,33,7,medium,low,5.8,moderate,3,excellent,65.0,178.1,20.49,none,0,0,0,excellent,9,0,5
+901,42,34,6,medium,medium,7.2,sedentary,4,excellent,79.0,150.6,34.84,oral contraceptive,0,0,0,anxious,4,0,6
+902,35,48,3,heavy,low,4.4,sedentary,4,fair,78.8,163.1,29.61,oral contraceptive,1,0,0,good,7,1,20
+903,21,27,3,heavy,medium,5.8,moderate,7,good,56.9,150.6,25.09,oral contraceptive,0,0,0,good,10,0,0
+904,31,28,6,medium,medium,6.7,light,4,poor,70.7,164.5,26.14,none,0,0,0,good,4,0,0
+905,34,28,7,medium,high,9.0,active,6,fair,85.2,165.0,31.3,oral contraceptive,1,0,0,anxious,6,0,0
+906,34,31,4,medium,medium,6.4,sedentary,5,fair,66.4,159.6,26.05,IUD,0,0,0,good,5,0,3
+907,36,27,5,light,medium,8.1,light,4,fair,87.5,154.0,36.92,implant,0,0,0,good,10,0,0
+908,42,27,4,light,low,6.2,active,9,excellent,54.7,161.3,21.01,none,0,0,0,good,6,0,0
+909,21,40,5,light,medium,8.0,active,11,fair,48.3,170.2,16.69,oral contraceptive,0,0,0,neutral,8,1,12
+910,15,29,4,light,low,7.0,sedentary,4,good,85.1,173.5,28.28,none,0,0,1,anxious,2,0,1
+911,46,29,7,light,medium,8.4,light,7,good,83.1,165.9,30.2,oral contraceptive,0,1,1,good,9,0,1
+912,27,41,7,medium,medium,6.1,moderate,8,good,89.7,167.7,31.89,IUD,0,0,0,good,6,1,13
+913,44,33,6,heavy,low,7.0,sedentary,8,fair,75.6,156.0,31.05,IUD,1,1,0,good,9,0,5
+914,37,28,4,medium,low,7.2,active,3,excellent,87.2,158.6,34.64,implant,0,0,0,neutral,2,0,0
+915,33,28,4,heavy,high,6.1,active,4,good,82.2,154.9,34.28,implant,0,0,0,good,1,0,0
+916,46,59,6,medium,high,4.7,sedentary,11,fair,83.0,157.5,33.47,none,0,0,0,anxious,6,1,31
+917,44,144,6,medium,medium,4.5,sedentary,11,poor,70.6,156.7,28.74,oral contraceptive,0,0,1,excellent,3,1,116
+918,43,31,7,medium,low,4.1,sedentary,5,good,62.2,165.6,22.69,oral contraceptive,0,0,1,excellent,0,0,3
+919,43,35,7,light,low,8.4,active,8,good,87.1,166.9,31.26,none,1,0,0,excellent,5,0,7
+920,44,32,4,light,medium,5.2,sedentary,3,good,64.4,178.3,20.26,none,0,0,0,anxious,10,0,4
+921,30,28,7,heavy,high,5.1,light,4,good,69.2,155.9,28.5,none,0,1,0,neutral,5,0,0
+922,33,26,7,heavy,low,7.7,light,8,good,65.1,169.3,22.72,IUD,0,0,0,depressed,5,0,0
+923,32,109,4,light,high,5.6,moderate,8,poor,70.4,174.5,23.12,none,1,0,0,good,1,1,81
+924,15,33,6,light,low,6.5,sedentary,11,poor,66.2,166.8,23.78,none,0,0,0,good,0,0,5
+925,28,29,4,medium,high,4.8,sedentary,4,fair,47.2,157.7,18.97,IUD,0,0,0,neutral,2,0,1
+926,16,33,3,light,medium,8.8,active,2,good,84.7,157.9,33.98,none,0,0,0,neutral,1,0,5
+927,42,34,4,medium,high,8.3,active,4,good,65.0,151.2,28.44,oral contraceptive,1,0,0,neutral,5,0,6
+928,44,28,3,light,medium,8.3,moderate,6,fair,71.5,159.2,28.23,oral contraceptive,0,1,1,good,5,0,0
+929,18,46,4,medium,medium,6.0,sedentary,8,good,51.3,172.3,17.26,none,1,0,0,excellent,4,1,18
+930,15,34,3,medium,low,7.8,light,5,fair,45.2,151.4,19.69,none,0,0,0,excellent,9,0,6
+931,22,26,3,medium,low,4.7,moderate,2,fair,56.0,156.6,22.86,oral contraceptive,0,0,0,neutral,9,0,0
+932,43,25,4,light,high,4.0,light,7,fair,76.7,171.2,26.18,none,0,0,0,neutral,4,0,0
+933,17,58,7,medium,high,4.1,active,3,poor,49.5,173.5,16.44,none,0,0,0,anxious,8,1,30
+934,46,28,5,heavy,high,6.9,moderate,4,fair,85.9,163.7,32.07,none,0,0,0,good,4,0,0
+935,24,24,7,medium,medium,6.3,sedentary,5,poor,54.7,170.9,18.71,IUD,0,0,0,anxious,9,0,0
+936,24,26,3,heavy,high,6.6,active,7,fair,54.2,161.6,20.75,oral contraceptive,0,0,0,good,5,0,0
+937,33,26,4,heavy,low,4.0,active,7,poor,53.2,154.8,22.19,none,0,0,1,excellent,10,0,0
+938,48,65,4,heavy,medium,6.1,sedentary,8,good,45.6,161.9,17.4,IUD,0,0,0,depressed,3,1,37
+939,47,40,4,heavy,medium,7.6,light,6,fair,79.7,167.4,28.45,none,1,0,0,neutral,9,1,12
+940,37,73,4,medium,medium,6.2,light,8,excellent,84.4,178.4,26.5,none,1,0,0,neutral,0,1,45
+941,42,32,5,heavy,medium,7.7,light,3,fair,72.6,152.1,31.41,oral contraceptive,0,0,0,neutral,3,0,4
+942,46,34,6,light,low,5.2,sedentary,2,fair,53.5,165.2,19.59,none,0,0,0,good,1,0,6
+943,21,24,3,medium,medium,8.1,moderate,11,fair,57.8,159.9,22.63,oral contraceptive,0,0,0,neutral,9,0,0
+944,43,31,5,heavy,high,6.9,active,9,poor,66.4,165.2,24.32,oral contraceptive,0,0,0,anxious,2,0,3
+945,22,108,7,heavy,medium,5.1,light,2,good,87.9,150.7,38.71,oral contraceptive,0,0,1,good,6,1,80
+946,15,32,6,heavy,low,5.2,sedentary,3,poor,56.1,159.4,22.09,none,0,0,1,neutral,6,0,4
+947,17,34,6,heavy,low,7.1,moderate,11,excellent,77.9,174.6,25.56,none,0,0,1,neutral,0,0,6
+948,38,34,4,heavy,low,8.1,light,7,excellent,64.8,166.6,23.33,none,0,0,0,good,7,0,6
+949,37,31,5,medium,low,6.1,active,2,good,58.4,163.5,21.84,none,0,0,0,good,6,0,3
+950,22,72,7,heavy,medium,5.3,light,11,good,65.5,158.6,26.06,none,0,0,0,excellent,0,1,44
+951,17,32,4,medium,medium,8.3,sedentary,4,good,48.2,158.9,19.08,none,0,0,0,neutral,7,0,4
+952,47,35,4,heavy,medium,7.3,sedentary,8,fair,80.9,161.5,31.04,implant,0,0,0,anxious,1,0,7
+953,42,27,3,heavy,medium,6.2,moderate,9,good,55.9,175.1,18.25,none,0,0,0,neutral,7,0,0
+954,22,29,6,heavy,high,6.4,light,5,poor,77.6,179.0,24.23,none,0,0,0,good,2,0,1
+955,48,26,7,medium,low,5.0,moderate,4,poor,48.1,163.2,18.06,IUD,0,0,0,neutral,9,0,0
+956,49,26,6,medium,medium,7.1,sedentary,2,good,88.0,161.8,33.61,IUD,1,0,0,anxious,6,0,0
+957,46,28,5,light,high,5.8,light,10,good,53.7,175.4,17.45,IUD,0,1,0,good,5,0,0
+958,38,31,3,heavy,low,9.0,light,11,excellent,84.7,162.8,31.96,implant,0,0,0,anxious,4,0,3
+959,28,31,4,medium,low,6.4,active,7,poor,81.4,166.6,29.35,none,0,0,0,neutral,10,0,3
+960,46,48,3,medium,high,6.4,active,7,good,88.6,156.9,35.96,none,0,1,1,excellent,9,1,20
+961,30,34,4,light,medium,6.8,sedentary,10,fair,66.5,172.3,22.4,none,0,1,0,good,10,0,6
+962,18,31,3,heavy,medium,8.6,light,2,fair,77.7,166.0,28.22,none,0,0,0,neutral,1,0,3
+963,35,26,4,heavy,low,8.0,sedentary,7,fair,61.7,174.3,20.31,oral contraceptive,0,0,0,neutral,1,0,0
+964,28,61,6,heavy,medium,6.3,light,6,fair,53.3,173.4,17.72,none,1,0,0,anxious,0,1,33
+965,45,25,6,medium,medium,7.6,light,7,fair,64.9,156.5,26.53,oral contraceptive,0,0,0,neutral,8,0,0
+966,32,146,6,medium,low,6.9,active,9,good,52.5,171.5,17.84,none,0,0,0,good,10,1,118
+967,21,30,6,medium,medium,6.5,active,6,good,89.2,174.0,29.46,none,0,0,0,good,7,0,2
+968,24,51,3,light,low,5.0,light,3,fair,49.3,160.4,19.18,oral contraceptive,0,0,0,neutral,7,1,23
+969,21,30,4,heavy,medium,6.3,light,3,good,71.5,155.2,29.7,none,0,0,0,good,0,0,2
+970,47,31,6,light,low,5.2,active,11,good,73.2,150.1,32.5,oral contraceptive,0,0,0,neutral,4,0,3
+971,37,35,3,medium,low,8.6,moderate,6,good,69.2,163.5,25.88,implant,0,0,0,good,5,0,7
+972,35,24,4,medium,low,5.7,sedentary,4,good,74.8,160.6,29.01,IUD,0,0,0,excellent,1,0,0
+973,33,31,3,medium,low,8.8,light,11,fair,50.2,166.6,18.09,none,0,0,0,good,9,0,3
+974,33,26,6,heavy,high,6.7,light,4,excellent,70.0,155.6,28.89,implant,0,0,0,good,4,0,0
+975,43,26,5,light,low,7.2,sedentary,9,good,57.9,175.8,18.74,none,0,0,0,neutral,5,0,0
+976,32,29,3,heavy,medium,6.7,sedentary,8,fair,87.3,157.7,35.09,oral contraceptive,0,0,0,good,8,0,1
+977,16,27,6,light,low,4.6,sedentary,2,fair,79.3,156.8,32.25,none,0,1,0,anxious,9,0,0
+978,15,44,7,light,medium,5.9,moderate,6,good,88.8,164.4,32.83,none,0,0,0,neutral,0,1,16
+979,19,52,4,medium,high,4.5,light,10,poor,46.7,165.0,17.16,none,0,0,0,good,9,1,24
+980,34,24,6,light,low,7.1,sedentary,5,excellent,57.8,156.5,23.63,none,0,0,0,good,2,0,0
+981,25,49,7,heavy,high,6.2,sedentary,2,poor,53.8,158.2,21.51,implant,1,0,1,neutral,8,1,21
+982,16,29,3,medium,low,7.9,moderate,9,good,45.5,155.1,18.92,none,0,0,0,excellent,0,0,1
+983,17,27,3,light,medium,5.1,active,6,fair,55.9,171.6,19.0,none,0,0,0,depressed,0,0,0
+984,37,92,7,light,medium,4.8,light,3,good,75.5,173.1,25.21,none,0,0,0,neutral,0,1,64
+985,26,31,7,medium,high,6.0,light,2,excellent,55.4,163.9,20.63,IUD,0,0,0,excellent,6,0,3
+986,34,31,4,heavy,medium,8.6,active,4,fair,67.9,171.4,23.11,none,1,0,0,neutral,4,0,3
+987,19,29,3,medium,medium,7.6,sedentary,10,good,85.0,172.1,28.69,IUD,1,0,0,good,5,0,1
+988,44,32,7,medium,low,6.1,sedentary,2,poor,76.2,154.1,32.08,implant,0,1,1,excellent,7,0,4
+989,23,35,5,heavy,low,6.6,light,5,poor,62.8,179.0,19.59,none,0,1,0,anxious,1,0,7
+990,48,64,5,medium,high,4.4,sedentary,9,fair,61.8,174.6,20.25,oral contraceptive,0,0,0,excellent,1,1,36
+991,49,31,7,light,medium,8.9,light,9,good,65.5,156.1,26.87,oral contraceptive,1,0,0,neutral,2,0,3
+992,36,29,4,medium,medium,7.3,active,11,poor,53.0,155.6,21.88,implant,0,0,0,depressed,2,0,1
+993,38,56,3,medium,high,5.4,moderate,9,poor,73.5,153.8,31.1,none,0,0,0,good,2,1,28
+994,31,30,5,medium,medium,6.9,light,11,fair,61.4,154.2,25.83,oral contraceptive,0,0,0,good,3,0,2
+995,24,61,7,medium,high,4.5,active,9,good,83.4,172.4,28.03,none,0,1,0,excellent,2,1,33
+996,44,32,7,heavy,medium,8.8,sedentary,5,good,79.0,164.1,29.36,none,0,0,0,excellent,1,0,4
+997,37,27,6,light,medium,4.9,sedentary,9,fair,72.5,173.5,24.08,none,0,0,0,excellent,8,0,0
+998,46,31,7,heavy,high,7.2,moderate,10,poor,61.4,172.4,20.66,oral contraceptive,0,0,0,anxious,5,0,3
+999,31,26,4,medium,low,5.2,moderate,8,excellent,54.4,168.1,19.26,IUD,0,1,0,anxious,2,0,0
+1000,31,27,5,medium,low,7.6,sedentary,3,fair,79.9,170.6,27.47,none,0,0,1,neutral,8,0,0

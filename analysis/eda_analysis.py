@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-data_path = os.path.join("..", "/home/ritirai/AI-Powered Women Health Insight System/Women Health Insight/data/women_health_dataset.csv")
+data_path = os.path.join("..", "/home/ritirai/Desktop/RITI/AI-Powered Women Health Insight System/Women Health Insight/data/women_health_dataset.csv")
 df = pd.read_csv(data_path) 
 # Display basic info    
 print("Dataset Info:")
@@ -16,7 +16,7 @@ plt.scatter(df['stress_level'], df['delay_days'])
 plt.title('Stress Level vs Delay Days')
 plt.xlabel('Stress Level')
 plt.ylabel('Delay Days')
-plt.savefig(os.path.join("..", "/home/ritirai/AI-Powered Women Health Insight System/Women Health Insight/PNG OUTPUT/stress_vs_delay_days.png"))
+plt.savefig(os.path.join("..", "/home/ritirai/Desktop/RITI/AI-Powered Women Health Insight System/Women Health Insight/PNG OUTPUT/stress_vs_delay_days.png"))
 plt.show()
 
 #boxplot for stress vs delay_days

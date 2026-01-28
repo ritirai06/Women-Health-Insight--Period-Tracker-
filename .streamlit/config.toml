@@ -1,0 +1,32 @@
+# Streamlit Theme Configuration for Women Health Insight System
+# Professional, clinic-grade healthcare dashboard theme
+
+[theme]
+# Primary color - Medical blue for trust and professionalism
+primaryColor = "#2563EB"
+
+# Background color - Clean white for medical environments
+backgroundColor = "#FFFFFF"
+
+# Secondary background - Subtle gray for cards and sections
+secondaryBackgroundColor = "#F8FAFC"
+
+# Text color - Dark slate for readability
+textColor = "#0F172A"
+
+# Font - Professional sans-serif
+font = "sans serif"
+
+[server]
+# Disable file watcher warnings in production
+fileWatcherType = "none"
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+# Gather usage stats
+gatherUsageStats = false
+
+[runner]
+# Faster reruns
+fastReruns = true
