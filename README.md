@@ -459,3 +459,5 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 **Last Updated:** January 28, 2026  
 **Version:** 2.0.0 (Enhanced with Visual Charts in PDF Reports)
+**MadeBy:** RITI RAI
+
